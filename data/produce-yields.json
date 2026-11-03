@@ -1,0 +1,7606 @@
+{
+"source":"USDA National Nutrient Database for Standard Reference, Release 28 (September 2015), USDA ARS Nutrient Data Laboratory",
+"source_url":"https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28asc.zip",
+"items":[
+{
+"ndb":"09002",
+"group":"fruit",
+"description":"Acerola juice, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":242.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.2
+}
+]
+},
+{
+"ndb":"09001",
+"group":"fruit",
+"description":"Acerola, (west indian cherry), raw",
+"common_name":null,
+"scientific_name":"Malpighia emarginata",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"18% seed, 2% stem end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":98.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":4.8
+}
+]
+},
+{
+"ndb":"11001",
+"group":"vegetable",
+"description":"Alfalfa seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Medicago sativa",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":33.0
+},
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":3.0
+}
+]
+},
+{
+"ndb":"11003",
+"group":"vegetable",
+"description":"Amaranth leaves, raw",
+"common_name":null,
+"scientific_name":"Amaranthus spp.",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Tough stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":28.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":14.0
+}
+]
+},
+{
+"ndb":"09504",
+"group":"fruit",
+"description":"Apples, raw, fuji, with skin",
+"common_name":null,
+"scientific_name":"Malus domestica",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":236.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":192.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":158.0
+}
+]
+},
+{
+"ndb":"09503",
+"group":"fruit",
+"description":"Apples, raw, gala, with skin",
+"common_name":null,
+"scientific_name":"Malus domestica",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":200.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":172.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":157.0
+}
+]
+},
+{
+"ndb":"09501",
+"group":"fruit",
+"description":"Apples, raw, golden delicious, with skin",
+"common_name":null,
+"scientific_name":"Malus domestica",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":215.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":169.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":129.0
+}
+]
+},
+{
+"ndb":"09502",
+"group":"fruit",
+"description":"Apples, raw, granny smith, with skin",
+"common_name":null,
+"scientific_name":"Malus domestica",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":206.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":167.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":144.0
+}
+]
+},
+{
+"ndb":"09500",
+"group":"fruit",
+"description":"Apples, raw, red delicious, with skin",
+"common_name":null,
+"scientific_name":"Malus domestica",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":260.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":212.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":158.0
+}
+]
+},
+{
+"ndb":"09003",
+"group":"fruit",
+"description":"Apples, raw, with skin",
+"common_name":"Includes USDA commodity food A343",
+"scientific_name":"Malus domestica",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, quartered or chopped",
+"grams":125.0
+},
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"large (3-1/4\" dia)",
+"grams":223.0
+},
+{
+"amount":1.0,
+"measure":"medium (3\" dia)",
+"grams":182.0
+},
+{
+"amount":1.0,
+"measure":"small (2-3/4\" dia)",
+"grams":149.0
+},
+{
+"amount":1.0,
+"measure":"extra small (2-1/2\" dia)",
+"grams":101.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":242.0
+}
+]
+},
+{
+"ndb":"09004",
+"group":"fruit",
+"description":"Apples, raw, without skin",
+"common_name":null,
+"scientific_name":"Malus domestica",
+"refuse_pct":23,
+"edible_pct":77,
+"refuse_description":"10% core and stem, 13% skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":110.0
+},
+{
+"amount":1.0,
+"measure":"large (3-1/4\" dia)",
+"grams":216.0
+},
+{
+"amount":1.0,
+"measure":"medium (3\" dia)",
+"grams":161.0
+},
+{
+"amount":1.0,
+"measure":"small (2-3/4\" dia)",
+"grams":132.0
+}
+]
+},
+{
+"ndb":"09005",
+"group":"fruit",
+"description":"Apples, raw, without skin, cooked, boiled",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":171.0
+}
+]
+},
+{
+"ndb":"09006",
+"group":"fruit",
+"description":"Apples, raw, without skin, cooked, microwave",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":170.0
+}
+]
+},
+{
+"ndb":"09021",
+"group":"fruit",
+"description":"Apricots, raw",
+"common_name":"Includes USDA commodity food A386",
+"scientific_name":"Prunus armeniaca",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Pits",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, halves",
+"grams":155.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"apricot",
+"grams":35.0
+}
+]
+},
+{
+"ndb":"11005",
+"group":"vegetable",
+"description":"Arrowhead, raw",
+"common_name":null,
+"scientific_name":"Sagittaria latifolia",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Skin and sprout",
+"portions":[
+{
+"amount":1.0,
+"measure":"large",
+"grams":25.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":12.0
+}
+]
+},
+{
+"ndb":"11697",
+"group":"vegetable",
+"description":"Arrowroot, raw",
+"common_name":null,
+"scientific_name":"Maranta arundinacea",
+"refuse_pct":15,
+"edible_pct":85,
+"refuse_description":"Peel",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":120.0
+},
+{
+"amount":1.0,
+"measure":"root",
+"grams":33.0
+}
+]
+},
+{
+"ndb":"11007",
+"group":"vegetable",
+"description":"Artichokes, (globe or french), raw",
+"common_name":null,
+"scientific_name":"Cynara scolymus",
+"refuse_pct":60,
+"edible_pct":40,
+"refuse_description":"Stem and inedible parts of bracts and flowers",
+"portions":[
+{
+"amount":1.0,
+"measure":"artichoke, medium",
+"grams":128.0
+},
+{
+"amount":1.0,
+"measure":"artichoke, large",
+"grams":162.0
+}
+]
+},
+{
+"ndb":"11959",
+"group":"vegetable",
+"description":"Arugula, raw",
+"common_name":null,
+"scientific_name":"Eruca sativa",
+"refuse_pct":40,
+"edible_pct":60,
+"refuse_description":"Roots, stems and yellowed leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":2.0
+},
+{
+"amount":0.5,
+"measure":"cup",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11011",
+"group":"vegetable",
+"description":"Asparagus, raw",
+"common_name":null,
+"scientific_name":"Asparagus officinalis",
+"refuse_pct":47,
+"edible_pct":53,
+"refuse_description":"Butt ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":134.0
+},
+{
+"amount":1.0,
+"measure":"spear, small (5\" long or less)",
+"grams":12.0
+},
+{
+"amount":1.0,
+"measure":"spear, medium (5-1/4\" to 7\" long)",
+"grams":16.0
+},
+{
+"amount":1.0,
+"measure":"spear, large (7-1/4\" to 8-1/2\")",
+"grams":20.0
+},
+{
+"amount":1.0,
+"measure":"spear, extra large (8-3/4\" to 10\" long)",
+"grams":24.0
+},
+{
+"amount":1.0,
+"measure":"spear tip (2\" long or less)",
+"grams":3.5
+}
+]
+},
+{
+"ndb":"09038",
+"group":"fruit",
+"description":"Avocados, raw, California",
+"common_name":null,
+"scientific_name":"Persea americana",
+"refuse_pct":33,
+"edible_pct":67,
+"refuse_description":"Seed and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pureed",
+"grams":230.0
+},
+{
+"amount":1.0,
+"measure":"fruit, without skin and seed",
+"grams":136.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":30.0
+}
+]
+},
+{
+"ndb":"09039",
+"group":"fruit",
+"description":"Avocados, raw, Florida",
+"common_name":null,
+"scientific_name":"Persea americana",
+"refuse_pct":33,
+"edible_pct":67,
+"refuse_description":"Seed and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pureed",
+"grams":230.0
+},
+{
+"amount":1.0,
+"measure":"fruit without skin and seeds",
+"grams":304.0
+}
+]
+},
+{
+"ndb":"09037",
+"group":"fruit",
+"description":"Avocados, raw, all commercial varieties",
+"common_name":null,
+"scientific_name":"Persea americana",
+"refuse_pct":26,
+"edible_pct":74,
+"refuse_description":"Seed and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":150.0
+},
+{
+"amount":1.0,
+"measure":"cup, pureed",
+"grams":230.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":146.0
+},
+{
+"amount":1.0,
+"measure":"avocado, NS as to Florida or California",
+"grams":201.0
+}
+]
+},
+{
+"ndb":"11022",
+"group":"vegetable",
+"description":"Balsam-pear (bitter gourd), leafy tips, raw",
+"common_name":null,
+"scientific_name":"Momordica charantia",
+"refuse_pct":62,
+"edible_pct":38,
+"refuse_description":"Tough stems and leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":4.0
+},
+{
+"amount":0.5,
+"measure":"cup",
+"grams":24.0
+}
+]
+},
+{
+"ndb":"11024",
+"group":"vegetable",
+"description":"Balsam-pear (bitter gourd), pods, raw",
+"common_name":null,
+"scientific_name":"Momordica charantia",
+"refuse_pct":17,
+"edible_pct":83,
+"refuse_description":"Tough stems and leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1/2\" pieces)",
+"grams":93.0
+},
+{
+"amount":1.0,
+"measure":"balsam-pear",
+"grams":124.0
+}
+]
+},
+{
+"ndb":"11026",
+"group":"vegetable",
+"description":"Bamboo shoots, raw",
+"common_name":null,
+"scientific_name":"Phyllostachys spp.",
+"refuse_pct":71,
+"edible_pct":29,
+"refuse_description":"Sheath",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1/2\" slices)",
+"grams":151.0
+},
+{
+"amount":0.5,
+"measure":"cup (1/2\" pieces)",
+"grams":76.0
+}
+]
+},
+{
+"ndb":"09040",
+"group":"fruit",
+"description":"Bananas, raw",
+"common_name":null,
+"scientific_name":"Musa acuminata Colla",
+"refuse_pct":36,
+"edible_pct":64,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, mashed",
+"grams":225.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":150.0
+},
+{
+"amount":1.0,
+"measure":"extra small (less than 6\" long)",
+"grams":81.0
+},
+{
+"amount":1.0,
+"measure":"small (6\" to 6-7/8\" long)",
+"grams":101.0
+},
+{
+"amount":1.0,
+"measure":"medium (7\" to 7-7/8\" long)",
+"grams":118.0
+},
+{
+"amount":1.0,
+"measure":"large (8\" to 8-7/8\" long)",
+"grams":136.0
+},
+{
+"amount":1.0,
+"measure":"extra large (9\" or longer)",
+"grams":152.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":126.0
+}
+]
+},
+{
+"ndb":"11973",
+"group":"vegetable",
+"description":"Beans, fava, in pod, raw",
+"common_name":null,
+"scientific_name":"Vicia faba",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":126.0
+},
+{
+"amount":1.0,
+"measure":"pod",
+"grams":6.1
+}
+]
+},
+{
+"ndb":"11029",
+"group":"vegetable",
+"description":"Beans, kidney, mature seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Phaseolus vulgaris",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":184.0
+}
+]
+},
+{
+"ndb":"11046",
+"group":"vegetable",
+"description":"Beans, navy, mature seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Phaseolus vulgaris",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":104.0
+}
+]
+},
+{
+"ndb":"11653",
+"group":"vegetable",
+"description":"Beans, pinto, mature seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Phaseolus vulgaris",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[]
+},
+{
+"ndb":"11052",
+"group":"vegetable",
+"description":"Beans, snap, green, raw",
+"common_name":null,
+"scientific_name":"Phaseolus vulgaris",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Ends, strings, trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup 1/2\" pieces",
+"grams":100.0
+},
+{
+"amount":10.0,
+"measure":"beans (4\" long)",
+"grams":55.0
+}
+]
+},
+{
+"ndb":"11722",
+"group":"vegetable",
+"description":"Beans, snap, yellow, raw",
+"common_name":null,
+"scientific_name":"Phaseolus vulgaris",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Ends, strings, trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup 1/2\" pieces",
+"grams":100.0
+},
+{
+"amount":10.0,
+"measure":"beans (4\" long)",
+"grams":55.0
+}
+]
+},
+{
+"ndb":"11086",
+"group":"vegetable",
+"description":"Beet greens, raw",
+"common_name":null,
+"scientific_name":"Beta vulgaris",
+"refuse_pct":44,
+"edible_pct":56,
+"refuse_description":"Stems, bruised and old leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":38.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":32.0
+},
+{
+"amount":0.5,
+"measure":"cup (1\" pieces)",
+"grams":19.0
+}
+]
+},
+{
+"ndb":"11080",
+"group":"vegetable",
+"description":"Beets, raw",
+"common_name":null,
+"scientific_name":"Beta vulgaris",
+"refuse_pct":33,
+"edible_pct":67,
+"refuse_description":"Parings and part tops",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":136.0
+},
+{
+"amount":1.0,
+"measure":"beet (2\" dia)",
+"grams":82.0
+}
+]
+},
+{
+"ndb":"09042",
+"group":"fruit",
+"description":"Blackberries, raw",
+"common_name":null,
+"scientific_name":"Rubus spp.",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Caps and spoiled berries",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":144.0
+}
+]
+},
+{
+"ndb":"09050",
+"group":"fruit",
+"description":"Blueberries, raw",
+"common_name":null,
+"scientific_name":"Vaccinium spp.",
+"refuse_pct":5,
+"edible_pct":95,
+"refuse_description":"Stems and green or spoiled berries",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":148.0
+},
+{
+"amount":50.0,
+"measure":"berries",
+"grams":68.0
+}
+]
+},
+{
+"ndb":"11613",
+"group":"vegetable",
+"description":"Borage, raw",
+"common_name":null,
+"scientific_name":"Borago officinalis",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Tough leaves and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1\" pieces)",
+"grams":89.0
+}
+]
+},
+{
+"ndb":"09059",
+"group":"fruit",
+"description":"Breadfruit, raw",
+"common_name":null,
+"scientific_name":"Artocarpus altilis",
+"refuse_pct":22,
+"edible_pct":78,
+"refuse_description":"9% core, 13% skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":220.0
+},
+{
+"amount":0.25,
+"measure":"fruit, small",
+"grams":96.0
+}
+]
+},
+{
+"ndb":"11088",
+"group":"vegetable",
+"description":"Broadbeans, immature seeds, raw",
+"common_name":null,
+"scientific_name":"Vicia faba",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":109.0
+},
+{
+"amount":1.0,
+"measure":"broadbean",
+"grams":8.0
+}
+]
+},
+{
+"ndb":"11096",
+"group":"vegetable",
+"description":"Broccoli raab, raw",
+"common_name":"Broccoli rabe, Rapini",
+"scientific_name":"Brassica ruvo",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup chopped",
+"grams":40.0
+},
+{
+"amount":1.0,
+"measure":"stalk",
+"grams":19.0
+}
+]
+},
+{
+"ndb":"11994",
+"group":"vegetable",
+"description":"Broccoli, chinese, raw",
+"common_name":"gai-lan, kai-lan",
+"scientific_name":" Brassica oleracea var. alboglabra",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Base and damaged leaves",
+"portions":[]
+},
+{
+"ndb":"11740",
+"group":"vegetable",
+"description":"Broccoli, flower clusters, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup flowerets",
+"grams":71.0
+},
+{
+"amount":1.0,
+"measure":"floweret",
+"grams":11.0
+}
+]
+},
+{
+"ndb":"11739",
+"group":"vegetable",
+"description":"Broccoli, leaves, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[]
+},
+{
+"ndb":"11090",
+"group":"vegetable",
+"description":"Broccoli, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea var. italica",
+"refuse_pct":39,
+"edible_pct":61,
+"refuse_description":"Leaves and tough stalks with trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup chopped",
+"grams":91.0
+},
+{
+"amount":1.0,
+"measure":"bunch",
+"grams":608.0
+},
+{
+"amount":1.0,
+"measure":"spear (about 5\" long)",
+"grams":31.0
+},
+{
+"amount":1.0,
+"measure":"stalk",
+"grams":151.0
+},
+{
+"amount":0.5,
+"measure":"cup, chopped or diced",
+"grams":44.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":148.0
+}
+]
+},
+{
+"ndb":"11741",
+"group":"vegetable",
+"description":"Broccoli, stalks, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"stalk",
+"grams":114.0
+}
+]
+},
+{
+"ndb":"11098",
+"group":"vegetable",
+"description":"Brussels sprouts, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Gemmifera Group)",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Outer leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":88.0
+},
+{
+"amount":1.0,
+"measure":"sprout",
+"grams":19.0
+}
+]
+},
+{
+"ndb":"11104",
+"group":"vegetable",
+"description":"Burdock root, raw",
+"common_name":null,
+"scientific_name":"Arctium lappa",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Skin, root and tips",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1\" pieces)",
+"grams":118.0
+},
+{
+"amount":1.0,
+"measure":"root",
+"grams":156.0
+}
+]
+},
+{
+"ndb":"11106",
+"group":"vegetable",
+"description":"Butterbur, (fuki), raw",
+"common_name":null,
+"scientific_name":"Petasites japonicus",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Leaves, stem ends, peels",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":94.0
+},
+{
+"amount":1.0,
+"measure":"petiole",
+"grams":5.0
+}
+]
+},
+{
+"ndb":"11116",
+"group":"vegetable",
+"description":"Cabbage, chinese (pak-choi), raw",
+"common_name":"pak choi, bok choy",
+"scientific_name":"Brassica rapa (Chinensis Group)",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Base and damaged leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":840.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":14.0
+}
+]
+},
+{
+"ndb":"11119",
+"group":"vegetable",
+"description":"Cabbage, chinese (pe-tsai), raw",
+"common_name":null,
+"scientific_name":"Brassica rapa (Pekinensis Group)",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Outer leaves and root base",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":76.0
+}
+]
+},
+{
+"ndb":"11749",
+"group":"vegetable",
+"description":"Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, shredded",
+"grams":35.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":908.0
+}
+]
+},
+{
+"ndb":"11750",
+"group":"vegetable",
+"description":"Cabbage, common (danish, domestic, and pointed types), stored, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, shredded",
+"grams":35.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":908.0
+}
+]
+},
+{
+"ndb":"11109",
+"group":"vegetable",
+"description":"Cabbage, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Capitata Group)",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":89.0
+},
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"head, large (about 7\" dia)",
+"grams":1248.0
+},
+{
+"amount":1.0,
+"measure":"leaf, large",
+"grams":33.0
+},
+{
+"amount":1.0,
+"measure":"head, medium (about 5-3/4\" dia)",
+"grams":908.0
+},
+{
+"amount":1.0,
+"measure":"leaf, medium",
+"grams":23.0
+},
+{
+"amount":1.0,
+"measure":"head, small (about 4-1/2\" dia)",
+"grams":714.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":15.0
+}
+]
+},
+{
+"ndb":"11112",
+"group":"vegetable",
+"description":"Cabbage, red, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Capitata Group)",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":89.0
+},
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"head, large (about 5-1/2\" dia)",
+"grams":1134.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":23.0
+},
+{
+"amount":1.0,
+"measure":"head, medium (about 5\" dia)",
+"grams":839.0
+},
+{
+"amount":1.0,
+"measure":"head, small (4\" dia)",
+"grams":567.0
+}
+]
+},
+{
+"ndb":"11114",
+"group":"vegetable",
+"description":"Cabbage, savoy, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Capitata Group)",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":70.0
+}
+]
+},
+{
+"ndb":"09060",
+"group":"fruit",
+"description":"Carambola, (starfruit), raw",
+"common_name":null,
+"scientific_name":"Averrhoa carambola",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Seeds and stem end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":132.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":108.0
+},
+{
+"amount":1.0,
+"measure":"large (4-1/2\" long)",
+"grams":124.0
+},
+{
+"amount":1.0,
+"measure":"medium (3-5/8\" long)",
+"grams":91.0
+},
+{
+"amount":1.0,
+"measure":"small (3-1/8\" long)",
+"grams":70.0
+}
+]
+},
+{
+"ndb":"11122",
+"group":"vegetable",
+"description":"Cardoon, raw",
+"common_name":null,
+"scientific_name":"Cynara cardunculus",
+"refuse_pct":51,
+"edible_pct":49,
+"refuse_description":"Tough stems and leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":178.0
+}
+]
+},
+{
+"ndb":"09061",
+"group":"fruit",
+"description":"Carissa, (natal-plum), raw",
+"common_name":null,
+"scientific_name":"Carissa macrocarpa",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"7% seeds, 7% skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":150.0
+},
+{
+"amount":1.0,
+"measure":"fruit without skin and seeds",
+"grams":20.0
+}
+]
+},
+{
+"ndb":"11960",
+"group":"vegetable",
+"description":"Carrots, baby, raw",
+"common_name":null,
+"scientific_name":"Daucus carota",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"large",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":10.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":85.0
+}
+]
+},
+{
+"ndb":"11124",
+"group":"vegetable",
+"description":"Carrots, raw",
+"common_name":"Includes USDA commodity food A099",
+"scientific_name":"Daucus carota",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Crown, tops and scrapings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup chopped",
+"grams":128.0
+},
+{
+"amount":1.0,
+"measure":"cup grated",
+"grams":110.0
+},
+{
+"amount":1.0,
+"measure":"cup strips or slices",
+"grams":122.0
+},
+{
+"amount":1.0,
+"measure":"large (7-1/4\" to 8-/1/2\" long)",
+"grams":72.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":61.0
+},
+{
+"amount":1.0,
+"measure":"small (5-1/2\" long)",
+"grams":50.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":3.0
+},
+{
+"amount":1.0,
+"measure":"strip large (3\" long)",
+"grams":7.0
+},
+{
+"amount":1.0,
+"measure":"strip medium",
+"grams":4.0
+}
+]
+},
+{
+"ndb":"11134",
+"group":"vegetable",
+"description":"Cassava, raw",
+"common_name":null,
+"scientific_name":"Manihot esculenta",
+"refuse_pct":16,
+"edible_pct":84,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":206.0
+},
+{
+"amount":1.0,
+"measure":"root",
+"grams":408.0
+}
+]
+},
+{
+"ndb":"11965",
+"group":"vegetable",
+"description":"Cauliflower, green, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Botrytis group)",
+"refuse_pct":39,
+"edible_pct":61,
+"refuse_description":"Leaf stalks, core and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":64.0
+},
+{
+"amount":1.0,
+"measure":"floweret",
+"grams":25.0
+},
+{
+"amount":1.0,
+"measure":"head, large (6-7\" dia)",
+"grams":511.0
+},
+{
+"amount":1.0,
+"measure":"head, medium (5-6\" dia)",
+"grams":431.0
+},
+{
+"amount":1.0,
+"measure":"head, small (4\" dia)",
+"grams":325.0
+}
+]
+},
+{
+"ndb":"11135",
+"group":"vegetable",
+"description":"Cauliflower, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Botrytis Group)",
+"refuse_pct":61,
+"edible_pct":39,
+"refuse_description":"Leaf stalks, cores and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup chopped (1/2\" pieces)",
+"grams":107.0
+},
+{
+"amount":1.0,
+"measure":"floweret",
+"grams":13.0
+},
+{
+"amount":1.0,
+"measure":"head large (6-7\" dia.)",
+"grams":840.0
+},
+{
+"amount":1.0,
+"measure":"head medium (5-6\" dia.)",
+"grams":588.0
+},
+{
+"amount":1.0,
+"measure":"head small (4\" dia.)",
+"grams":265.0
+}
+]
+},
+{
+"ndb":"11141",
+"group":"vegetable",
+"description":"Celeriac, raw",
+"common_name":null,
+"scientific_name":"Apium graveolens",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"Parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":156.0
+}
+]
+},
+{
+"ndb":"11143",
+"group":"vegetable",
+"description":"Celery, raw",
+"common_name":null,
+"scientific_name":"Apium graveolens",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Roots and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup chopped",
+"grams":101.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":110.0
+},
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":7.5
+},
+{
+"amount":1.0,
+"measure":"stalk, large (11\"-12\" long)",
+"grams":64.0
+},
+{
+"amount":1.0,
+"measure":"stalk, medium (7-1/2\" - 8\" long)",
+"grams":40.0
+},
+{
+"amount":1.0,
+"measure":"stalk, small (5\" long)",
+"grams":17.0
+},
+{
+"amount":1.0,
+"measure":"strip (4\" long)",
+"grams":4.0
+}
+]
+},
+{
+"ndb":"11145",
+"group":"vegetable",
+"description":"Celtuce, raw",
+"common_name":null,
+"scientific_name":"Lactuca sativa",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Tough leaves and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":8.0
+}
+]
+},
+{
+"ndb":"11147",
+"group":"vegetable",
+"description":"Chard, swiss, raw",
+"common_name":null,
+"scientific_name":"Beta vulgaris subsp. vulagaris",
+"refuse_pct":8,
+"edible_pct":92,
+"refuse_description":"Tough stems and damaged leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":36.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":48.0
+}
+]
+},
+{
+"ndb":"11149",
+"group":"vegetable",
+"description":"Chayote, fruit, raw",
+"common_name":"christophine",
+"scientific_name":"Sechium edule",
+"refuse_pct":1,
+"edible_pct":99,
+"refuse_description":"End and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1\" pieces)",
+"grams":132.0
+},
+{
+"amount":1.0,
+"measure":"chayote (5-3/4\")",
+"grams":203.0
+}
+]
+},
+{
+"ndb":"09062",
+"group":"fruit",
+"description":"Cherimoya, raw",
+"common_name":null,
+"scientific_name":"Annona cherimola",
+"refuse_pct":31,
+"edible_pct":69,
+"refuse_description":"Seeds, skin and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pieces",
+"grams":160.0
+},
+{
+"amount":1.0,
+"measure":"fruit without skin and seeds",
+"grams":235.0
+}
+]
+},
+{
+"ndb":"09063",
+"group":"fruit",
+"description":"Cherries, sour, red, raw",
+"common_name":null,
+"scientific_name":"Prunus cerasus",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Pits and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, without pits",
+"grams":155.0
+},
+{
+"amount":1.0,
+"measure":"cup, with pits, yields",
+"grams":103.0
+}
+]
+},
+{
+"ndb":"09070",
+"group":"fruit",
+"description":"Cherries, sweet, raw",
+"common_name":null,
+"scientific_name":"Prunus avium",
+"refuse_pct":8,
+"edible_pct":92,
+"refuse_description":"Pits and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, with pits, yields",
+"grams":138.0
+},
+{
+"amount":1.0,
+"measure":"cup, without pits",
+"grams":154.0
+},
+{
+"amount":1.0,
+"measure":"cherry",
+"grams":8.2
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":140.0
+}
+]
+},
+{
+"ndb":"11152",
+"group":"vegetable",
+"description":"Chicory greens, raw",
+"common_name":null,
+"scientific_name":"Cichorium intybus",
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"Tough stems and damaged leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":29.0
+}
+]
+},
+{
+"ndb":"11154",
+"group":"vegetable",
+"description":"Chicory roots, raw",
+"common_name":null,
+"scientific_name":"Cichorium intybus",
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"Peels and tops",
+"portions":[
+{
+"amount":1.0,
+"measure":"root",
+"grams":60.0
+},
+{
+"amount":0.5,
+"measure":"cup (1\" pieces)",
+"grams":45.0
+}
+]
+},
+{
+"ndb":"11151",
+"group":"vegetable",
+"description":"Chicory, witloof, raw",
+"common_name":null,
+"scientific_name":"Cichorium intybus",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Root base and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"head",
+"grams":53.0
+},
+{
+"amount":0.5,
+"measure":"cup",
+"grams":45.0
+}
+]
+},
+{
+"ndb":"11156",
+"group":"vegetable",
+"description":"Chives, raw",
+"common_name":null,
+"scientific_name":"Allium schoenoprasum",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"tbsp chopped",
+"grams":3.0
+},
+{
+"amount":1.0,
+"measure":"tsp chopped",
+"grams":1.0
+}
+]
+},
+{
+"ndb":"11698",
+"group":"vegetable",
+"description":"Chrysanthemum leaves, raw",
+"common_name":null,
+"scientific_name":"Chrysanthemum coronarium",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":51.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":18.0
+}
+]
+},
+{
+"ndb":"11157",
+"group":"vegetable",
+"description":"Chrysanthemum, garland, raw",
+"common_name":null,
+"scientific_name":"Chrysanthemum coronarium",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Stem ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1\" pieces)",
+"grams":25.0
+},
+{
+"amount":1.0,
+"measure":"stem (8-3/4\" long)",
+"grams":14.0
+}
+]
+},
+{
+"ndb":"09433",
+"group":"fruit",
+"description":"Clementines, raw",
+"common_name":null,
+"scientific_name":"Citrus clementina hort. ex Tanaka",
+"refuse_pct":23,
+"edible_pct":77,
+"refuse_description":"Peel and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit",
+"grams":74.0
+}
+]
+},
+{
+"ndb":"11161",
+"group":"vegetable",
+"description":"Collards, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea var. viridis",
+"refuse_pct":43,
+"edible_pct":57,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":36.0
+}
+]
+},
+{
+"ndb":"11165",
+"group":"vegetable",
+"description":"Coriander (cilantro) leaves, raw",
+"common_name":"Chinese parsley, raw, Cilantro, raw",
+"scientific_name":"Coriandrum sativum",
+"refuse_pct":15,
+"edible_pct":85,
+"refuse_description":"Roots, old and bruised leaves",
+"portions":[
+{
+"amount":0.25,
+"measure":"cup",
+"grams":4.0
+},
+{
+"amount":9.0,
+"measure":"sprigs",
+"grams":20.0
+}
+]
+},
+{
+"ndb":"11900",
+"group":"vegetable",
+"description":"Corn, sweet, white, raw",
+"common_name":null,
+"scientific_name":"Zea mays",
+"refuse_pct":64,
+"edible_pct":36,
+"refuse_description":"35% husk, silk, trimmings; 29% cob",
+"portions":[
+{
+"amount":1.0,
+"measure":"ear, small (5-1/2\" to 6-1/2\" long)",
+"grams":73.0
+},
+{
+"amount":1.0,
+"measure":"ear, medium (6-3/4\" to 7-1/2\" long)",
+"grams":90.0
+},
+{
+"amount":1.0,
+"measure":"ear, large (7-3/4\" to 9\" long)",
+"grams":143.0
+},
+{
+"amount":1.0,
+"measure":"cup kernels",
+"grams":154.0
+}
+]
+},
+{
+"ndb":"11167",
+"group":"vegetable",
+"description":"Corn, sweet, yellow, raw",
+"common_name":null,
+"scientific_name":"Zea mays",
+"refuse_pct":64,
+"edible_pct":36,
+"refuse_description":"35% husk, silk, trimmings; 29% cob",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":145.0
+},
+{
+"amount":1.0,
+"measure":"ear, large (7-3/4\" to 9\" long) yields",
+"grams":143.0
+},
+{
+"amount":1.0,
+"measure":"ear, medium (6-3/4\" to 7-1/2\" long) yields",
+"grams":102.0
+},
+{
+"amount":1.0,
+"measure":"ear, small (5-1/2\" to 6-1/2\" long)",
+"grams":73.0
+}
+]
+},
+{
+"ndb":"11191",
+"group":"vegetable",
+"description":"Cowpeas (blackeyes), immature seeds, raw",
+"common_name":null,
+"scientific_name":"Vigna unguiculata subsp. unguiculata",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"Pods",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":145.0
+}
+]
+},
+{
+"ndb":"11201",
+"group":"vegetable",
+"description":"Cowpeas, leafy tips, raw",
+"common_name":null,
+"scientific_name":"Vigna unguiculata subsp. unguiculata",
+"refuse_pct":48,
+"edible_pct":52,
+"refuse_description":"Tough stems and leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":36.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":3.0
+}
+]
+},
+{
+"ndb":"11197",
+"group":"vegetable",
+"description":"Cowpeas, young pods with seeds, raw",
+"common_name":null,
+"scientific_name":"Vigna unguiculata subsp. unguiculata",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Ends and strings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":94.0
+},
+{
+"amount":1.0,
+"measure":"pod",
+"grams":12.0
+}
+]
+},
+{
+"ndb":"09077",
+"group":"fruit",
+"description":"Crabapples, raw",
+"common_name":null,
+"scientific_name":"Malus spp.",
+"refuse_pct":8,
+"edible_pct":92,
+"refuse_description":"Core and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":110.0
+}
+]
+},
+{
+"ndb":"09078",
+"group":"fruit",
+"description":"Cranberries, raw",
+"common_name":null,
+"scientific_name":"Vaccinium macrocarpon",
+"refuse_pct":2,
+"edible_pct":98,
+"refuse_description":"Stems and spoiled berries",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":110.0
+},
+{
+"amount":1.0,
+"measure":"cup, whole",
+"grams":100.0
+}
+]
+},
+{
+"ndb":"11203",
+"group":"vegetable",
+"description":"Cress, garden, raw",
+"common_name":null,
+"scientific_name":"Lepidium sativum",
+"refuse_pct":29,
+"edible_pct":71,
+"refuse_description":"Stems, crowns and spoiled leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":50.0
+},
+{
+"amount":1.0,
+"measure":"sprig",
+"grams":1.0
+}
+]
+},
+{
+"ndb":"11206",
+"group":"vegetable",
+"description":"Cucumber, peeled, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":27,
+"edible_pct":73,
+"refuse_description":"Parings, ends and bruised spots",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pared, chopped",
+"grams":133.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":119.0
+},
+{
+"amount":1.0,
+"measure":"large (8-1/4\" long)",
+"grams":280.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":201.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":7.0
+},
+{
+"amount":1.0,
+"measure":"small (6-3/8\" long)",
+"grams":158.0
+},
+{
+"amount":1.0,
+"measure":"stick (4\" long)",
+"grams":9.0
+}
+]
+},
+{
+"ndb":"11205",
+"group":"vegetable",
+"description":"Cucumber, with peel, raw",
+"common_name":null,
+"scientific_name":"Cucumis sativus",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup slices",
+"grams":52.0
+},
+{
+"amount":1.0,
+"measure":"cucumber (8-1/4\")",
+"grams":301.0
+}
+]
+},
+{
+"ndb":"09083",
+"group":"fruit",
+"description":"Currants, european black, raw",
+"common_name":null,
+"scientific_name":"Ribes nigrum",
+"refuse_pct":2,
+"edible_pct":98,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":112.0
+}
+]
+},
+{
+"ndb":"09084",
+"group":"fruit",
+"description":"Currants, red and white, raw",
+"common_name":null,
+"scientific_name":"Ribes rubrum",
+"refuse_pct":2,
+"edible_pct":98,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":112.0
+}
+]
+},
+{
+"ndb":"09086",
+"group":"fruit",
+"description":"Custard-apple, (bullock's-heart), raw",
+"common_name":null,
+"scientific_name":"Annona reticulata",
+"refuse_pct":42,
+"edible_pct":58,
+"refuse_description":"Seeds and skin",
+"portions":[]
+},
+{
+"ndb":"11207",
+"group":"vegetable",
+"description":"Dandelion greens, raw",
+"common_name":null,
+"scientific_name":"Taraxacum officinale",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":55.0
+}
+]
+},
+{
+"ndb":"11616",
+"group":"vegetable",
+"description":"Dock, raw",
+"common_name":null,
+"scientific_name":"Rumex spp.",
+"refuse_pct":30,
+"edible_pct":70,
+"refuse_description":"Stalks",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":133.0
+}
+]
+},
+{
+"ndb":"11222",
+"group":"vegetable",
+"description":"Drumstick leaves, raw",
+"common_name":"Harseradish tree leaves",
+"scientific_name":"Moringa oleifera",
+"refuse_pct":38,
+"edible_pct":62,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":21.0
+}
+]
+},
+{
+"ndb":"11620",
+"group":"vegetable",
+"description":"Drumstick pods, raw",
+"common_name":"Horseradish tree pods",
+"scientific_name":"Moringa oleifera",
+"refuse_pct":48,
+"edible_pct":52,
+"refuse_description":"Hard outer covering and fibers",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":100.0
+},
+{
+"amount":1.0,
+"measure":"pod (15-1/3\" long)",
+"grams":11.0
+}
+]
+},
+{
+"ndb":"11209",
+"group":"vegetable",
+"description":"Eggplant, raw",
+"common_name":null,
+"scientific_name":"Solanum melongena",
+"refuse_pct":19,
+"edible_pct":81,
+"refuse_description":"Ends, parings and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":82.0
+},
+{
+"amount":1.0,
+"measure":"eggplant, peeled (yield from 1-1/4 lb)",
+"grams":458.0
+},
+{
+"amount":1.0,
+"measure":"eggplant, unpeeled (approx 1-1/4 lb)",
+"grams":548.0
+}
+]
+},
+{
+"ndb":"09088",
+"group":"fruit",
+"description":"Elderberries, raw",
+"common_name":null,
+"scientific_name":"Sambucus spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":145.0
+}
+]
+},
+{
+"ndb":"11213",
+"group":"vegetable",
+"description":"Endive, raw",
+"common_name":null,
+"scientific_name":"Cichorium endivia",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, chopped",
+"grams":25.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":513.0
+}
+]
+},
+{
+"ndb":"11984",
+"group":"vegetable",
+"description":"Epazote, raw",
+"common_name":null,
+"scientific_name":"Chenopodium ambrosiodes",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":0.8
+},
+{
+"amount":1.0,
+"measure":"sprig",
+"grams":2.0
+}
+]
+},
+{
+"ndb":"09334",
+"group":"fruit",
+"description":"Feijoa, raw",
+"common_name":null,
+"scientific_name":"Acca sellowiana",
+"refuse_pct":43,
+"edible_pct":57,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pureed",
+"grams":243.0
+},
+{
+"amount":1.0,
+"measure":"fruit without peel",
+"grams":42.0
+},
+{
+"amount":1.0,
+"measure":"cup 1/2\" chunks",
+"grams":205.0
+}
+]
+},
+{
+"ndb":"11957",
+"group":"vegetable",
+"description":"Fennel, bulb, raw",
+"common_name":null,
+"scientific_name":"Foeniculum vulgare",
+"refuse_pct":28,
+"edible_pct":72,
+"refuse_description":"Stalk, leaves and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":87.0
+},
+{
+"amount":1.0,
+"measure":"bulb",
+"grams":234.0
+}
+]
+},
+{
+"ndb":"09089",
+"group":"fruit",
+"description":"Figs, raw",
+"common_name":null,
+"scientific_name":"Ficus carica",
+"refuse_pct":1,
+"edible_pct":99,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"large (2-1/2\" dia)",
+"grams":64.0
+},
+{
+"amount":1.0,
+"measure":"medium (2-1/4\" dia)",
+"grams":50.0
+},
+{
+"amount":1.0,
+"measure":"small (1-1/2\" dia)",
+"grams":40.0
+}
+]
+},
+{
+"ndb":"11985",
+"group":"vegetable",
+"description":"Fireweed, leaves, raw",
+"common_name":null,
+"scientific_name":"Epilobium angustifolium",
+"refuse_pct":65,
+"edible_pct":35,
+"refuse_description":"Stems and flowers",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":23.0
+},
+{
+"amount":1.0,
+"measure":"plant",
+"grams":22.0
+}
+]
+},
+{
+"ndb":"11215",
+"group":"vegetable",
+"description":"Garlic, raw",
+"common_name":null,
+"scientific_name":"Allium sativum",
+"refuse_pct":13,
+"edible_pct":87,
+"refuse_description":"Knob and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":136.0
+},
+{
+"amount":1.0,
+"measure":"tsp",
+"grams":2.8
+},
+{
+"amount":1.0,
+"measure":"clove",
+"grams":3.0
+},
+{
+"amount":3.0,
+"measure":"cloves",
+"grams":9.0
+}
+]
+},
+{
+"ndb":"11216",
+"group":"vegetable",
+"description":"Ginger root, raw",
+"common_name":null,
+"scientific_name":"Zingiber officinale",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Scrapings",
+"portions":[
+{
+"amount":1.0,
+"measure":"tsp",
+"grams":2.0
+},
+{
+"amount":0.25,
+"measure":"cup slices (1\" dia)",
+"grams":24.0
+},
+{
+"amount":5.0,
+"measure":"slices (1\" dia)",
+"grams":11.0
+}
+]
+},
+{
+"ndb":"09107",
+"group":"fruit",
+"description":"Gooseberries, raw",
+"common_name":null,
+"scientific_name":"Ribes spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":150.0
+}
+]
+},
+{
+"ndb":"11220",
+"group":"vegetable",
+"description":"Gourd, dishcloth (towelgourd), raw",
+"common_name":null,
+"scientific_name":"Luffa aegyptiaca",
+"refuse_pct":27,
+"edible_pct":73,
+"refuse_description":"Ribs, skin, stem and blossom end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1\" pieces)",
+"grams":95.0
+},
+{
+"amount":1.0,
+"measure":"gourd",
+"grams":178.0
+}
+]
+},
+{
+"ndb":"11218",
+"group":"vegetable",
+"description":"Gourd, white-flowered (calabash), raw",
+"common_name":null,
+"scientific_name":"Lagenaria siceraria",
+"refuse_pct":30,
+"edible_pct":70,
+"refuse_description":"Ends, skin, and seeds",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup (1\" pieces)",
+"grams":58.0
+},
+{
+"amount":1.0,
+"measure":"gourd",
+"grams":771.0
+}
+]
+},
+{
+"ndb":"11974",
+"group":"vegetable",
+"description":"Grape leaves, raw",
+"common_name":null,
+"scientific_name":"Vitis vinifera",
+"refuse_pct":5,
+"edible_pct":95,
+"refuse_description":"Tough stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":14.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":3.0
+}
+]
+},
+{
+"ndb":"09404",
+"group":"fruit",
+"description":"Grapefruit juice, pink, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":247.0
+},
+{
+"amount":1.0,
+"measure":"fruit yields",
+"grams":196.0
+}
+]
+},
+{
+"ndb":"09128",
+"group":"fruit",
+"description":"Grapefruit juice, white, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":247.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.9
+},
+{
+"amount":1.0,
+"measure":"fruit yields",
+"grams":196.0
+}
+]
+},
+{
+"ndb":"09111",
+"group":"fruit",
+"description":"Grapefruit, raw, pink and red and white, all areas",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":50,
+"edible_pct":50,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"large (approx 4-1/2\" dia)",
+"grams":166.0
+},
+{
+"amount":0.5,
+"measure":"medium (approx 4\" dia)",
+"grams":128.0
+},
+{
+"amount":0.5,
+"measure":"small (approx 3-1/2\" dia)",
+"grams":100.0
+}
+]
+},
+{
+"ndb":"09113",
+"group":"fruit",
+"description":"Grapefruit, raw, pink and red, California and Arizona",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"fruit (3-3/4\" dia)",
+"grams":123.0
+}
+]
+},
+{
+"ndb":"09114",
+"group":"fruit",
+"description":"Grapefruit, raw, pink and red, Florida",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"fruit (3-3/4\" dia)",
+"grams":123.0
+}
+]
+},
+{
+"ndb":"09112",
+"group":"fruit",
+"description":"Grapefruit, raw, pink and red, all areas",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"fruit (3-3/4\" dia)",
+"grams":123.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":154.0
+}
+]
+},
+{
+"ndb":"09117",
+"group":"fruit",
+"description":"Grapefruit, raw, white, California",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":51,
+"edible_pct":49,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"fruit (3-3/4\" dia)",
+"grams":118.0
+}
+]
+},
+{
+"ndb":"09118",
+"group":"fruit",
+"description":"Grapefruit, raw, white, Florida",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":51,
+"edible_pct":49,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"fruit (3-3/4\" dia)",
+"grams":118.0
+}
+]
+},
+{
+"ndb":"09116",
+"group":"fruit",
+"description":"Grapefruit, raw, white, all areas",
+"common_name":null,
+"scientific_name":"Citrus paradisi",
+"refuse_pct":51,
+"edible_pct":49,
+"refuse_description":"Peel, seeds, core, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, with juice",
+"grams":230.0
+},
+{
+"amount":0.5,
+"measure":"fruit (3-3/4\" dia)",
+"grams":118.0
+}
+]
+},
+{
+"ndb":"09131",
+"group":"fruit",
+"description":"Grapes, american type (slip skin), raw",
+"common_name":null,
+"scientific_name":"Vitis spp.",
+"refuse_pct":42,
+"edible_pct":58,
+"refuse_description":"6% seeds, 34% skin, 2% stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":92.0
+},
+{
+"amount":1.0,
+"measure":"grape",
+"grams":2.4
+}
+]
+},
+{
+"ndb":"09129",
+"group":"fruit",
+"description":"Grapes, muscadine, raw",
+"common_name":null,
+"scientific_name":"Vitis rotundifolia",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"grape",
+"grams":6.0
+}
+]
+},
+{
+"ndb":"09132",
+"group":"fruit",
+"description":"Grapes, red or green (European type, such as Thompson seedless), raw",
+"common_name":null,
+"scientific_name":"Vitis vinifera",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":151.0
+},
+{
+"amount":10.0,
+"measure":"grapes",
+"grams":49.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":126.0
+}
+]
+},
+{
+"ndb":"09138",
+"group":"fruit",
+"description":"Groundcherries, (cape-gooseberries or poha), raw",
+"common_name":null,
+"scientific_name":"Physalis spp.",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Husks",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":140.0
+}
+]
+},
+{
+"ndb":"09139",
+"group":"fruit",
+"description":"Guavas, common, raw",
+"common_name":null,
+"scientific_name":"Psidium guajava",
+"refuse_pct":22,
+"edible_pct":78,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"fruit, without refuse",
+"grams":55.0
+}
+]
+},
+{
+"ndb":"09140",
+"group":"fruit",
+"description":"Guavas, strawberry, raw",
+"common_name":null,
+"scientific_name":"Psidium cattleianum",
+"refuse_pct":15,
+"edible_pct":85,
+"refuse_description":"Seeds, stem, and blossom end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":244.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":6.0
+}
+]
+},
+{
+"ndb":"11224",
+"group":"vegetable",
+"description":"Hyacinth-beans, immature seeds, raw",
+"common_name":null,
+"scientific_name":"Dolichos lablab",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Ends and strings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":80.0
+}
+]
+},
+{
+"ndb":"09144",
+"group":"fruit",
+"description":"Jackfruit, raw",
+"common_name":null,
+"scientific_name":"Artocarpus heterophyllus",
+"refuse_pct":72,
+"edible_pct":28,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"cup 1\" pieces",
+"grams":151.0
+}
+]
+},
+{
+"ndb":"09145",
+"group":"fruit",
+"description":"Java-plum, (jambolan), raw",
+"common_name":null,
+"scientific_name":"Syzygium cumini",
+"refuse_pct":19,
+"edible_pct":81,
+"refuse_description":"Seed",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":135.0
+},
+{
+"amount":3.0,
+"measure":"fruit",
+"grams":9.0
+}
+]
+},
+{
+"ndb":"11226",
+"group":"vegetable",
+"description":"Jerusalem-artichokes, raw",
+"common_name":"Sunchokes",
+"scientific_name":"Helianthus tuberosus",
+"refuse_pct":31,
+"edible_pct":69,
+"refuse_description":"Parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":150.0
+}
+]
+},
+{
+"ndb":"11228",
+"group":"vegetable",
+"description":"Jew's ear, (pepeao), raw",
+"common_name":null,
+"scientific_name":"Auricularia polytricha",
+"refuse_pct":2,
+"edible_pct":98,
+"refuse_description":"Stem end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":99.0
+},
+{
+"amount":1.0,
+"measure":"piece",
+"grams":6.0
+}
+]
+},
+{
+"ndb":"09146",
+"group":"fruit",
+"description":"Jujube, raw",
+"common_name":null,
+"scientific_name":"Ziziphus jujuba",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Seeds",
+"portions":[]
+},
+{
+"ndb":"11231",
+"group":"vegetable",
+"description":"Jute, potherb, raw",
+"common_name":null,
+"scientific_name":"Corchorus olitorius",
+"refuse_pct":38,
+"edible_pct":62,
+"refuse_description":"Tough leaves and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":28.0
+}
+]
+},
+{
+"ndb":"11233",
+"group":"vegetable",
+"description":"Kale, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Acephala Group)",
+"refuse_pct":28,
+"edible_pct":72,
+"refuse_description":"Stem ends, tough stems and tough midrib parts",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup 1\" pieces, loosely packed",
+"grams":16.0
+}
+]
+},
+{
+"ndb":"11622",
+"group":"vegetable",
+"description":"Kale, scotch, raw",
+"common_name":null,
+"scientific_name":"Brassica napus (Pabularia Group)",
+"refuse_pct":39,
+"edible_pct":61,
+"refuse_description":"Stems, tough part of midribs",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":67.0
+}
+]
+},
+{
+"ndb":"09520",
+"group":"fruit",
+"description":"Kiwifruit, ZESPRI SunGold, raw",
+"common_name":"Gold3",
+"scientific_name":"Actinidia chinensis \u0091Zesy002\u0092 (Gold3)",
+"refuse_pct":28,
+"edible_pct":72,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit",
+"grams":81.0
+}
+]
+},
+{
+"ndb":"09148",
+"group":"fruit",
+"description":"Kiwifruit, green, raw",
+"common_name":"Chinese gooseberry",
+"scientific_name":"Actinidia deliciosa",
+"refuse_pct":24,
+"edible_pct":76,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":180.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2\" dia)",
+"grams":69.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":148.0
+}
+]
+},
+{
+"ndb":"11241",
+"group":"vegetable",
+"description":"Kohlrabi, raw",
+"common_name":null,
+"scientific_name":"Brassica oleracea (Gongylodes Group)",
+"refuse_pct":54,
+"edible_pct":46,
+"refuse_description":"Leaves, stems and parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":135.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":16.0
+}
+]
+},
+{
+"ndb":"09149",
+"group":"fruit",
+"description":"Kumquats, raw",
+"common_name":null,
+"scientific_name":"Fortunella spp.",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":19.0
+}
+]
+},
+{
+"ndb":"11246",
+"group":"vegetable",
+"description":"Leeks, (bulb and lower leaf-portion), raw",
+"common_name":null,
+"scientific_name":"Allium ampeloprasum",
+"refuse_pct":56,
+"edible_pct":44,
+"refuse_description":"Tops, root end and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":89.0
+},
+{
+"amount":1.0,
+"measure":"leek",
+"grams":89.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":6.0
+}
+]
+},
+{
+"ndb":"11972",
+"group":"vegetable",
+"description":"Lemon grass (citronella), raw",
+"common_name":null,
+"scientific_name":"Collinsonia canadensis",
+"refuse_pct":35,
+"edible_pct":65,
+"refuse_description":"Tough stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":67.0
+},
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":4.8
+}
+]
+},
+{
+"ndb":"09152",
+"group":"fruit",
+"description":"Lemon juice, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":244.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.5
+},
+{
+"amount":1.0,
+"measure":"lemon yields",
+"grams":48.0
+},
+{
+"amount":1.0,
+"measure":"wedge yields",
+"grams":5.9
+}
+]
+},
+{
+"ndb":"09156",
+"group":"fruit",
+"description":"Lemon peel, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"tsp",
+"grams":2.0
+}
+]
+},
+{
+"ndb":"09150",
+"group":"fruit",
+"description":"Lemons, raw, without peel",
+"common_name":"Includes USDA commodity food A415",
+"scientific_name":"Citrus limon",
+"refuse_pct":47,
+"edible_pct":53,
+"refuse_description":"45% peel, 2% seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sections",
+"grams":212.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-1/8\" dia)",
+"grams":58.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-3/8\" dia)",
+"grams":84.0
+},
+{
+"amount":1.0,
+"measure":"wedge or slice (1/8 of one 2-1/8\" dia lemon)",
+"grams":7.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":58.0
+}
+]
+},
+{
+"ndb":"11248",
+"group":"vegetable",
+"description":"Lentils, sprouted, raw",
+"common_name":null,
+"scientific_name":"Lens culinaris",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":77.0
+}
+]
+},
+{
+"ndb":"11250",
+"group":"vegetable",
+"description":"Lettuce, butterhead (includes boston and bibb types), raw",
+"common_name":null,
+"scientific_name":"Lactuca sativa var. capitata",
+"refuse_pct":26,
+"edible_pct":74,
+"refuse_description":"Outer leaves and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, shredded or chopped",
+"grams":55.0
+},
+{
+"amount":1.0,
+"measure":"head (5\" dia)",
+"grams":163.0
+},
+{
+"amount":1.0,
+"measure":"leaf, large",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"leaf, medium",
+"grams":7.5
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":5.0
+}
+]
+},
+{
+"ndb":"11251",
+"group":"vegetable",
+"description":"Lettuce, cos or romaine, raw",
+"common_name":null,
+"scientific_name":"Lactuca sativa var. logifolia",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup shredded",
+"grams":47.0
+},
+{
+"amount":1.0,
+"measure":"leaf inner",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"leaf outer",
+"grams":28.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":626.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":85.0
+}
+]
+},
+{
+"ndb":"11253",
+"group":"vegetable",
+"description":"Lettuce, green leaf, raw",
+"common_name":null,
+"scientific_name":"Lactuca sativa var. crispa",
+"refuse_pct":36,
+"edible_pct":64,
+"refuse_description":"Outer leaves, core and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup shredded",
+"grams":36.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":360.0
+},
+{
+"amount":1.0,
+"measure":"leaf inner",
+"grams":4.8
+},
+{
+"amount":1.0,
+"measure":"leaf outer",
+"grams":24.0
+}
+]
+},
+{
+"ndb":"11252",
+"group":"vegetable",
+"description":"Lettuce, iceberg (includes crisphead types), raw",
+"common_name":null,
+"scientific_name":"Lactuca sativa var. capitata",
+"refuse_pct":5,
+"edible_pct":95,
+"refuse_description":"Core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup shredded",
+"grams":72.0
+},
+{
+"amount":1.0,
+"measure":"cup, chopped (1/2\" pieces, loosely packed)",
+"grams":57.0
+},
+{
+"amount":1.0,
+"measure":"head, large",
+"grams":755.0
+},
+{
+"amount":1.0,
+"measure":"head, medium (6\" dia)",
+"grams":539.0
+},
+{
+"amount":1.0,
+"measure":"head, small",
+"grams":324.0
+},
+{
+"amount":1.0,
+"measure":"leaf, large",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"leaf, medium",
+"grams":8.0
+},
+{
+"amount":1.0,
+"measure":"leaf, small",
+"grams":5.0
+},
+{
+"amount":1.0,
+"measure":"NLEA Serving",
+"grams":89.0
+}
+]
+},
+{
+"ndb":"11257",
+"group":"vegetable",
+"description":"Lettuce, red leaf, raw",
+"common_name":null,
+"scientific_name":"Lactuca sativa var. crispa",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Core and damaged outer leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup shredded",
+"grams":28.0
+},
+{
+"amount":1.0,
+"measure":"leaf inner",
+"grams":2.6
+},
+{
+"amount":1.0,
+"measure":"leaf outer",
+"grams":17.0
+},
+{
+"amount":1.0,
+"measure":"head",
+"grams":309.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":85.0
+}
+]
+},
+{
+"ndb":"11031",
+"group":"vegetable",
+"description":"Lima beans, immature seeds, raw",
+"common_name":null,
+"scientific_name":"Phaseolus lunatus",
+"refuse_pct":56,
+"edible_pct":44,
+"refuse_description":"Pods and imperfect beans",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":156.0
+}
+]
+},
+{
+"ndb":"09160",
+"group":"fruit",
+"description":"Lime juice, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":242.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.8
+},
+{
+"amount":1.0,
+"measure":"lime yields",
+"grams":44.0
+}
+]
+},
+{
+"ndb":"09159",
+"group":"fruit",
+"description":"Limes, raw",
+"common_name":null,
+"scientific_name":"Citrus latifolia",
+"refuse_pct":16,
+"edible_pct":84,
+"refuse_description":"Peel and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit (2\" dia)",
+"grams":67.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":67.0
+}
+]
+},
+{
+"ndb":"09164",
+"group":"fruit",
+"description":"Litchis, raw",
+"common_name":"lychee",
+"scientific_name":"Litchi chinensis",
+"refuse_pct":40,
+"edible_pct":60,
+"refuse_description":"Shell and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":190.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":9.6
+}
+]
+},
+{
+"ndb":"09172",
+"group":"fruit",
+"description":"Longans, raw",
+"common_name":null,
+"scientific_name":"Dimocarpus longan",
+"refuse_pct":47,
+"edible_pct":53,
+"refuse_description":"Shell and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":3.2
+}
+]
+},
+{
+"ndb":"09174",
+"group":"fruit",
+"description":"Loquats, raw",
+"common_name":null,
+"scientific_name":"Eriobotrya japonica",
+"refuse_pct":35,
+"edible_pct":65,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubed",
+"grams":149.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":20.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":16.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":13.6
+}
+]
+},
+{
+"ndb":"11254",
+"group":"vegetable",
+"description":"Lotus root, raw",
+"common_name":null,
+"scientific_name":"Nelumbo nucifera",
+"refuse_pct":21,
+"edible_pct":79,
+"refuse_description":"Skins and ends of lobes",
+"portions":[
+{
+"amount":10.0,
+"measure":"slices (2-1/2\" dia)",
+"grams":81.0
+},
+{
+"amount":1.0,
+"measure":"root (9-1/2\" long)",
+"grams":115.0
+}
+]
+},
+{
+"ndb":"09175",
+"group":"fruit",
+"description":"Mammy-apple, (mamey), raw",
+"common_name":null,
+"scientific_name":"Mammea americana",
+"refuse_pct":40,
+"edible_pct":60,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":846.0
+}
+]
+},
+{
+"ndb":"09176",
+"group":"fruit",
+"description":"Mangos, raw",
+"common_name":null,
+"scientific_name":"Mangifera indica",
+"refuse_pct":29,
+"edible_pct":71,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup pieces",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":336.0
+}
+]
+},
+{
+"ndb":"09181",
+"group":"fruit",
+"description":"Melons, cantaloupe, raw",
+"common_name":"includes USDA commodity food A415",
+"scientific_name":"Cucumis melo",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"9% cavity contents, 1% cutting loss, 39% rind",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, balls",
+"grams":177.0
+},
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":160.0
+},
+{
+"amount":1.0,
+"measure":"cup, diced",
+"grams":156.0
+},
+{
+"amount":1.0,
+"measure":"melon, large (about 6-1/2\" dia)",
+"grams":814.0
+},
+{
+"amount":1.0,
+"measure":"wedge, large (1/8 of large melon)",
+"grams":102.0
+},
+{
+"amount":1.0,
+"measure":"melon, medium (about 5\" dia)",
+"grams":552.0
+},
+{
+"amount":1.0,
+"measure":"wedge, medium (1/8 of medium melon)",
+"grams":69.0
+},
+{
+"amount":1.0,
+"measure":"melon, small (about 4-1/4\" dia)",
+"grams":441.0
+},
+{
+"amount":1.0,
+"measure":"wedge, small (1/8 of small melon)",
+"grams":55.0
+},
+{
+"amount":10.0,
+"measure":"cantaloupe balls",
+"grams":138.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":134.0
+}
+]
+},
+{
+"ndb":"09183",
+"group":"fruit",
+"description":"Melons, casaba, raw",
+"common_name":null,
+"scientific_name":"Cucumis melo",
+"refuse_pct":40,
+"edible_pct":60,
+"refuse_description":"11% cavity contents, 29% rind",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":170.0
+},
+{
+"amount":1.0,
+"measure":"melon",
+"grams":1640.0
+},
+{
+"amount":0.1,
+"measure":"fruit",
+"grams":164.0
+}
+]
+},
+{
+"ndb":"09184",
+"group":"fruit",
+"description":"Melons, honeydew, raw",
+"common_name":null,
+"scientific_name":"Cucumis melo",
+"refuse_pct":54,
+"edible_pct":46,
+"refuse_description":"5% cavity contents, rind 49%",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, diced (approx 20 pieces per cup)",
+"grams":170.0
+},
+{
+"amount":1.0,
+"measure":"cup, balls",
+"grams":177.0
+},
+{
+"amount":1.0,
+"measure":"melon (5-1/4\" dia)",
+"grams":1000.0
+},
+{
+"amount":1.0,
+"measure":"melon (6\" - 7\" dia)",
+"grams":1280.0
+},
+{
+"amount":1.0,
+"measure":"wedge (1/8 of 5-1/4\" dia melon)",
+"grams":125.0
+},
+{
+"amount":1.0,
+"measure":"wedge (1/8 of 6\" to 7\" dia melon)",
+"grams":160.0
+},
+{
+"amount":10.0,
+"measure":"honeydew balls",
+"grams":138.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":134.0
+}
+]
+},
+{
+"ndb":"11258",
+"group":"vegetable",
+"description":"Mountain yam, hawaii, raw",
+"common_name":null,
+"scientific_name":"Dioscorea pentaphylla",
+"refuse_pct":17,
+"edible_pct":83,
+"refuse_description":"Ends and skin",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, cubes",
+"grams":68.0
+},
+{
+"amount":1.0,
+"measure":"yam",
+"grams":420.0
+}
+]
+},
+{
+"ndb":"09190",
+"group":"fruit",
+"description":"Mulberries, raw",
+"common_name":null,
+"scientific_name":"Morus nigra",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":140.0
+},
+{
+"amount":10.0,
+"measure":"fruit",
+"grams":15.0
+}
+]
+},
+{
+"ndb":"11043",
+"group":"vegetable",
+"description":"Mung beans, mature seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Vigna radiata",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":104.0
+},
+{
+"amount":1.0,
+"measure":"package (12 oz)",
+"grams":340.0
+}
+]
+},
+{
+"ndb":"11938",
+"group":"vegetable",
+"description":"Mushroom, white, exposed to ultraviolet light, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup pieces or slices",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"cup whole",
+"grams":96.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":23.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":18.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11239",
+"group":"vegetable",
+"description":"Mushrooms, Chanterelle, raw",
+"common_name":null,
+"scientific_name":"Cantharellus californicus or Cantharellus cibarius",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":54.0
+},
+{
+"amount":1.0,
+"measure":"piece",
+"grams":5.4
+}
+]
+},
+{
+"ndb":"11936",
+"group":"vegetable",
+"description":"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",
+"common_name":null,
+"scientific_name":"Agaricus bisporus",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup whole",
+"grams":87.0
+},
+{
+"amount":1.0,
+"measure":"cup sliced",
+"grams":72.0
+},
+{
+"amount":1.0,
+"measure":"piece whole",
+"grams":20.0
+}
+]
+},
+{
+"ndb":"11266",
+"group":"vegetable",
+"description":"Mushrooms, brown, italian, or crimini, raw",
+"common_name":null,
+"scientific_name":"Agaricus bisporus",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup whole",
+"grams":87.0
+},
+{
+"amount":1.0,
+"measure":"cup sliced",
+"grams":72.0
+},
+{
+"amount":1.0,
+"measure":"piece whole",
+"grams":20.0
+}
+]
+},
+{
+"ndb":"11950",
+"group":"vegetable",
+"description":"Mushrooms, enoki, raw",
+"common_name":null,
+"scientific_name":"Flammulina veluptipes",
+"refuse_pct":16,
+"edible_pct":84,
+"refuse_description":"Stems and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"large",
+"grams":5.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":3.0
+},
+{
+"amount":1.0,
+"measure":"cup whole",
+"grams":64.0
+},
+{
+"amount":1.0,
+"measure":"cup sliced",
+"grams":65.0
+}
+]
+},
+{
+"ndb":"11993",
+"group":"vegetable",
+"description":"Mushrooms, maitake, raw",
+"common_name":null,
+"scientific_name":"Grifola frondosa",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup diced",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"piece whole",
+"grams":1.1
+}
+]
+},
+{
+"ndb":"11240",
+"group":"vegetable",
+"description":"Mushrooms, morel, raw",
+"common_name":null,
+"scientific_name":"Morchella spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":66.0
+},
+{
+"amount":1.0,
+"measure":"piece",
+"grams":12.9
+}
+]
+},
+{
+"ndb":"11987",
+"group":"vegetable",
+"description":"Mushrooms, oyster, raw",
+"common_name":null,
+"scientific_name":"Pleurotus ostreatus",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"large",
+"grams":148.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"cup sliced",
+"grams":86.0
+}
+]
+},
+{
+"ndb":"11998",
+"group":"vegetable",
+"description":"Mushrooms, portabella, exposed to ultraviolet light, raw",
+"common_name":"portobella",
+"scientific_name":"Agaricus bisporus",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup diced",
+"grams":86.0
+},
+{
+"amount":1.0,
+"measure":"piece whole",
+"grams":84.0
+}
+]
+},
+{
+"ndb":"11265",
+"group":"vegetable",
+"description":"Mushrooms, portabella, raw",
+"common_name":"Portabello",
+"scientific_name":"Agaricus bisporus",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup diced",
+"grams":86.0
+},
+{
+"amount":1.0,
+"measure":"piece whole",
+"grams":84.0
+}
+]
+},
+{
+"ndb":"11238",
+"group":"vegetable",
+"description":"Mushrooms, shiitake, raw",
+"common_name":null,
+"scientific_name":"Lentinus edodes",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"piece whole",
+"grams":19.0
+}
+]
+},
+{
+"ndb":"11260",
+"group":"vegetable",
+"description":"Mushrooms, white, raw",
+"common_name":null,
+"scientific_name":"Agaricus bisporus",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pieces or slices",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"cup, whole",
+"grams":96.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":23.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":18.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":10.0
+},
+{
+"amount":0.5,
+"measure":"cup pieces",
+"grams":35.0
+}
+]
+},
+{
+"ndb":"11270",
+"group":"vegetable",
+"description":"Mustard greens, raw",
+"common_name":null,
+"scientific_name":"Brassica juncea",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Bases",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":56.0
+}
+]
+},
+{
+"ndb":"11274",
+"group":"vegetable",
+"description":"Mustard spinach, (tendergreen), raw",
+"common_name":null,
+"scientific_name":"Brassica rapa (Perviridis Group)",
+"refuse_pct":7,
+"edible_pct":93,
+"refuse_description":"Trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":150.0
+}
+]
+},
+{
+"ndb":"09191",
+"group":"fruit",
+"description":"Nectarines, raw",
+"common_name":null,
+"scientific_name":"Prunus persica var. nucipersica",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Pit",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":143.0
+},
+{
+"amount":1.0,
+"measure":"small (2-1/3\" dia)",
+"grams":129.0
+},
+{
+"amount":1.0,
+"measure":"medium (2-1/2\" dia)",
+"grams":142.0
+},
+{
+"amount":1.0,
+"measure":"large (2-3/4\" dia)",
+"grams":156.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":140.0
+}
+]
+},
+{
+"ndb":"11276",
+"group":"vegetable",
+"description":"New Zealand spinach, raw",
+"common_name":null,
+"scientific_name":"Tetragonia tetragonioides",
+"refuse_pct":28,
+"edible_pct":72,
+"refuse_description":"Large stems and roots",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":56.0
+}
+]
+},
+{
+"ndb":"11963",
+"group":"vegetable",
+"description":"Nopales, raw",
+"common_name":null,
+"scientific_name":"Nopalea cochenillifera",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Spines and dark spots",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":86.0
+}
+]
+},
+{
+"ndb":"09192",
+"group":"fruit",
+"description":"Oheloberries, raw",
+"common_name":null,
+"scientific_name":"Vaccinium reticulatum",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":140.0
+},
+{
+"amount":10.0,
+"measure":"fruit",
+"grams":11.0
+}
+]
+},
+{
+"ndb":"11278",
+"group":"vegetable",
+"description":"Okra, raw",
+"common_name":null,
+"scientific_name":"Abelmoschus esculentus",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"Crown and tips",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":100.0
+},
+{
+"amount":8.0,
+"measure":"pods (3\" long)",
+"grams":95.0
+}
+]
+},
+{
+"ndb":"11282",
+"group":"vegetable",
+"description":"Onions, raw",
+"common_name":null,
+"scientific_name":"Allium cepa",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Stem ends, sprouts and defects",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":160.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":115.0
+},
+{
+"amount":1.0,
+"measure":"tbsp chopped",
+"grams":10.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":150.0
+},
+{
+"amount":1.0,
+"measure":"slice, large (1/4\" thick)",
+"grams":38.0
+},
+{
+"amount":1.0,
+"measure":"medium (2-1/2\" dia)",
+"grams":110.0
+},
+{
+"amount":1.0,
+"measure":"slice, medium (1/8\" thick)",
+"grams":14.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":70.0
+},
+{
+"amount":1.0,
+"measure":"slice, thin",
+"grams":9.0
+},
+{
+"amount":10.0,
+"measure":"rings",
+"grams":60.0
+}
+]
+},
+{
+"ndb":"11291",
+"group":"vegetable",
+"description":"Onions, spring or scallions (includes tops and bulb), raw",
+"common_name":null,
+"scientific_name":"Allium cepa or Allium fistulosum",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Rootlets",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":100.0
+},
+{
+"amount":1.0,
+"measure":"tbsp chopped",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":25.0
+},
+{
+"amount":1.0,
+"measure":"medium (4-1/8\" long)",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"small (3\" long)",
+"grams":5.0
+}
+]
+},
+{
+"ndb":"11294",
+"group":"vegetable",
+"description":"Onions, sweet, raw",
+"common_name":null,
+"scientific_name":"Allium cepa",
+"refuse_pct":16,
+"edible_pct":84,
+"refuse_description":"Stem, root, and two outermost layers",
+"portions":[
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":148.0
+},
+{
+"amount":1.0,
+"measure":"onion",
+"grams":331.0
+}
+]
+},
+{
+"ndb":"11293",
+"group":"vegetable",
+"description":"Onions, welsh, raw",
+"common_name":null,
+"scientific_name":"Allium fistulosum",
+"refuse_pct":35,
+"edible_pct":65,
+"refuse_description":"Leaf tops and roots",
+"portions":[]
+},
+{
+"ndb":"09206",
+"group":"fruit",
+"description":"Orange juice, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":248.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":31.0
+},
+{
+"amount":1.0,
+"measure":"fruit yields",
+"grams":86.0
+}
+]
+},
+{
+"ndb":"09216",
+"group":"fruit",
+"description":"Orange peel, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"tsp",
+"grams":2.0
+}
+]
+},
+{
+"ndb":"09201",
+"group":"fruit",
+"description":"Oranges, raw, California, valencias",
+"common_name":null,
+"scientific_name":"Citrus sinensis",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Peel and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, without membranes",
+"grams":180.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-5/8\" dia)",
+"grams":121.0
+}
+]
+},
+{
+"ndb":"09203",
+"group":"fruit",
+"description":"Oranges, raw, Florida",
+"common_name":null,
+"scientific_name":"Citrus sinensis",
+"refuse_pct":26,
+"edible_pct":74,
+"refuse_description":"Peel and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, without membranes",
+"grams":185.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-5/8\" dia)",
+"grams":141.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-11/16\" dia)",
+"grams":151.0
+}
+]
+},
+{
+"ndb":"09200",
+"group":"fruit",
+"description":"Oranges, raw, all commercial varieties",
+"common_name":null,
+"scientific_name":"Citrus sinensis",
+"refuse_pct":27,
+"edible_pct":73,
+"refuse_description":"Peel and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sections",
+"grams":180.0
+},
+{
+"amount":1.0,
+"measure":"large (3-1/16\" dia)",
+"grams":184.0
+},
+{
+"amount":1.0,
+"measure":"small (2-3/8\" dia)",
+"grams":96.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-5/8\" dia)",
+"grams":131.0
+}
+]
+},
+{
+"ndb":"09202",
+"group":"fruit",
+"description":"Oranges, raw, navels",
+"common_name":null,
+"scientific_name":"Citrus sinensis",
+"refuse_pct":32,
+"edible_pct":68,
+"refuse_description":"Peel and navel",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sections, without membranes",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-7/8\" dia)",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":154.0
+}
+]
+},
+{
+"ndb":"09205",
+"group":"fruit",
+"description":"Oranges, raw, with peel",
+"common_name":null,
+"scientific_name":"Citrus sinensis",
+"refuse_pct":1,
+"edible_pct":99,
+"refuse_description":"Seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":170.0
+},
+{
+"amount":1.0,
+"measure":"fruit without seeds",
+"grams":159.0
+}
+]
+},
+{
+"ndb":"09226",
+"group":"fruit",
+"description":"Papayas, raw",
+"common_name":null,
+"scientific_name":"Carica papaya",
+"refuse_pct":38,
+"edible_pct":62,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup 1\" pieces",
+"grams":145.0
+},
+{
+"amount":1.0,
+"measure":"cup, mashed",
+"grams":230.0
+},
+{
+"amount":1.0,
+"measure":"fruit, small",
+"grams":157.0
+},
+{
+"amount":1.0,
+"measure":"fruit, large",
+"grams":781.0
+}
+]
+},
+{
+"ndb":"11298",
+"group":"vegetable",
+"description":"Parsnips, raw",
+"common_name":null,
+"scientific_name":"Pastinaca sativa",
+"refuse_pct":15,
+"edible_pct":85,
+"refuse_description":"Parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":133.0
+}
+]
+},
+{
+"ndb":"09232",
+"group":"fruit",
+"description":"Passion-fruit juice, purple, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":247.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.9
+}
+]
+},
+{
+"ndb":"09233",
+"group":"fruit",
+"description":"Passion-fruit juice, yellow, raw",
+"common_name":null,
+"scientific_name":"Passiflora edulis f. flavicarpa",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":247.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.9
+}
+]
+},
+{
+"ndb":"09231",
+"group":"fruit",
+"description":"Passion-fruit, (granadilla), purple, raw",
+"common_name":null,
+"scientific_name":"Passiflora edulis",
+"refuse_pct":48,
+"edible_pct":52,
+"refuse_description":"Shell",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":236.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":18.0
+}
+]
+},
+{
+"ndb":"09236",
+"group":"fruit",
+"description":"Peaches, yellow, raw",
+"common_name":null,
+"scientific_name":"Prunus persica",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Pit",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":154.0
+},
+{
+"amount":1.0,
+"measure":"small (2-1/2\" dia)",
+"grams":130.0
+},
+{
+"amount":1.0,
+"measure":"medium (2-2/3\" dia)",
+"grams":150.0
+},
+{
+"amount":1.0,
+"measure":"large (2-3/4\" dia)",
+"grams":175.0
+},
+{
+"amount":1.0,
+"measure":"extra large (3\" dia)",
+"grams":224.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":147.0
+}
+]
+},
+{
+"ndb":"09340",
+"group":"fruit",
+"description":"Pears, asian, raw",
+"common_name":null,
+"scientific_name":"Pyrus pyrifolia (Burman f.) Nakai",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit 2-1/4\" high x 2-1/2\" dia",
+"grams":122.0
+},
+{
+"amount":1.0,
+"measure":"fruit 3-3/8\" high x 3\" diameter",
+"grams":275.0
+}
+]
+},
+{
+"ndb":"09252",
+"group":"fruit",
+"description":"Pears, raw",
+"common_name":"Includes USDA commodity food A435",
+"scientific_name":"Pyrus communis",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Stem, core and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, slices",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":161.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":148.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":178.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":230.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":166.0
+}
+]
+},
+{
+"ndb":"09412",
+"group":"fruit",
+"description":"Pears, raw, bartlett",
+"common_name":null,
+"scientific_name":"Pyrus communis",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Stem, core and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":152.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":177.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":227.0
+}
+]
+},
+{
+"ndb":"09414",
+"group":"fruit",
+"description":"Pears, raw, bosc",
+"common_name":null,
+"scientific_name":"Pyrus communis",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Stem, core and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":159.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":179.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":219.0
+}
+]
+},
+{
+"ndb":"09415",
+"group":"fruit",
+"description":"Pears, raw, green anjou",
+"common_name":null,
+"scientific_name":"Pyrus communis",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Stem, core and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":172.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":202.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":242.0
+}
+]
+},
+{
+"ndb":"09413",
+"group":"fruit",
+"description":"Pears, raw, red anjou",
+"common_name":null,
+"scientific_name":"Pyrus communis",
+"refuse_pct":11,
+"edible_pct":89,
+"refuse_description":"Stem, core and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"small",
+"grams":126.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":157.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":223.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":140.0
+}
+]
+},
+{
+"ndb":"11300",
+"group":"vegetable",
+"description":"Peas, edible-podded, raw",
+"common_name":"Snowpeas, Sugar snap peas",
+"scientific_name":"Pisum sativum",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Ends and strings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":98.0
+},
+{
+"amount":1.0,
+"measure":"cup, whole",
+"grams":63.0
+},
+{
+"amount":10.0,
+"measure":"pea pods",
+"grams":34.0
+}
+]
+},
+{
+"ndb":"11304",
+"group":"vegetable",
+"description":"Peas, green, raw",
+"common_name":null,
+"scientific_name":"Pisum sativum",
+"refuse_pct":62,
+"edible_pct":38,
+"refuse_description":"Pods and inedible peas",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":145.0
+}
+]
+},
+{
+"ndb":"11316",
+"group":"vegetable",
+"description":"Peas, mature seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":120.0
+}
+]
+},
+{
+"ndb":"11976",
+"group":"vegetable",
+"description":"Pepper, banana, raw",
+"common_name":null,
+"scientific_name":"Capsicum anuum",
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"Stem ends, seeds and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":124.0
+},
+{
+"amount":1.0,
+"measure":"small (4\" long)",
+"grams":33.0
+},
+{
+"amount":1.0,
+"measure":"medium (4-1/2\" long)",
+"grams":46.0
+},
+{
+"amount":1.0,
+"measure":"large (5\" long)",
+"grams":75.0
+}
+]
+},
+{
+"ndb":"11670",
+"group":"vegetable",
+"description":"Peppers, hot chili, green, raw",
+"common_name":null,
+"scientific_name":"Capsicum frutescens",
+"refuse_pct":27,
+"edible_pct":73,
+"refuse_description":"Stem ends, seeds and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"pepper",
+"grams":45.0
+},
+{
+"amount":0.5,
+"measure":"cup, chopped or diced",
+"grams":75.0
+}
+]
+},
+{
+"ndb":"11819",
+"group":"vegetable",
+"description":"Peppers, hot chili, red, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":27,
+"edible_pct":73,
+"refuse_description":"Stem ends, seeds and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"pepper",
+"grams":45.0
+},
+{
+"amount":0.5,
+"measure":"cup, chopped or diced",
+"grams":75.0
+}
+]
+},
+{
+"ndb":"11981",
+"group":"vegetable",
+"description":"Peppers, hungarian, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"pepper",
+"grams":27.0
+}
+]
+},
+{
+"ndb":"11979",
+"group":"vegetable",
+"description":"Peppers, jalapeno, raw",
+"common_name":null,
+"scientific_name":"Capsicum anuum",
+"refuse_pct":8,
+"edible_pct":92,
+"refuse_description":"Stems and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":90.0
+},
+{
+"amount":1.0,
+"measure":"pepper",
+"grams":14.0
+}
+]
+},
+{
+"ndb":"11977",
+"group":"vegetable",
+"description":"Peppers, serrano, raw",
+"common_name":null,
+"scientific_name":"Capsicum anuum",
+"refuse_pct":3,
+"edible_pct":97,
+"refuse_description":"Stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":105.0
+},
+{
+"amount":1.0,
+"measure":"pepper",
+"grams":6.1
+}
+]
+},
+{
+"ndb":"11333",
+"group":"vegetable",
+"description":"Peppers, sweet, green, raw",
+"common_name":null,
+"scientific_name":"Capsicum annuum",
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"Stem ends, seeds and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":149.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":92.0
+},
+{
+"amount":1.0,
+"measure":"tbsp",
+"grams":9.3
+},
+{
+"amount":1.0,
+"measure":"large (2-1/4 per lb, approx 3-3/4\" long, 3\" dia)",
+"grams":164.0
+},
+{
+"amount":1.0,
+"measure":"medium (approx 2-3/4\" long, 2-1/2\" dia)",
+"grams":119.0
+},
+{
+"amount":1.0,
+"measure":"ring (3\" dia, 1/4\" thick)",
+"grams":10.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":74.0
+},
+{
+"amount":10.0,
+"measure":"strips",
+"grams":27.0
+}
+]
+},
+{
+"ndb":"11821",
+"group":"vegetable",
+"description":"Peppers, sweet, red, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"Stem ends, seed and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":149.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":92.0
+},
+{
+"amount":1.0,
+"measure":"tablespoon",
+"grams":9.3
+},
+{
+"amount":1.0,
+"measure":"large (2-1/4 per pound, approx 3-3/4\" long, 3\" dia.)",
+"grams":164.0
+},
+{
+"amount":1.0,
+"measure":"medium (approx 2-3/4\" long, 2-1/2 dia.)",
+"grams":119.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":74.0
+},
+{
+"amount":1.0,
+"measure":"ring (3\" dia., 1/4\" thick)",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11951",
+"group":"vegetable",
+"description":"Peppers, sweet, yellow, raw",
+"common_name":null,
+"scientific_name":"Capsicum annuum",
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"Stem ends, seeds and core",
+"portions":[
+{
+"amount":1.0,
+"measure":"pepper, large (3-3/4\" long, 3\" dia)",
+"grams":186.0
+},
+{
+"amount":10.0,
+"measure":"strips",
+"grams":52.0
+}
+]
+},
+{
+"ndb":"09263",
+"group":"fruit",
+"description":"Persimmons, japanese, raw",
+"common_name":null,
+"scientific_name":"Diospyros kaki",
+"refuse_pct":16,
+"edible_pct":84,
+"refuse_description":"2% calyx, 14% skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit (2-1/2\" dia)",
+"grams":168.0
+}
+]
+},
+{
+"ndb":"09265",
+"group":"fruit",
+"description":"Persimmons, native, raw",
+"common_name":null,
+"scientific_name":"Diospyros virginiana",
+"refuse_pct":18,
+"edible_pct":82,
+"refuse_description":"2% calyx, 16% seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":25.0
+}
+]
+},
+{
+"ndb":"11344",
+"group":"vegetable",
+"description":"Pigeonpeas, immature seeds, raw",
+"common_name":null,
+"scientific_name":"Cajanus cajan",
+"refuse_pct":52,
+"edible_pct":48,
+"refuse_description":"Pods",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":154.0
+},
+{
+"amount":10.0,
+"measure":"seeds",
+"grams":4.0
+}
+]
+},
+{
+"ndb":"09266",
+"group":"fruit",
+"description":"Pineapple, raw, all varieties",
+"common_name":null,
+"scientific_name":"Ananas comosus",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"8% core, 16% crown, 26% parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chunks",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"fruit",
+"grams":905.0
+},
+{
+"amount":1.0,
+"measure":"slice (4-2/3\" dia x 3/4\" thick)",
+"grams":166.0
+},
+{
+"amount":1.0,
+"measure":"slice (3-1/2\" dia x 3/4\" thick)",
+"grams":84.0
+},
+{
+"amount":1.0,
+"measure":"slice, thin (3-1/2\" dia x 1/2\" thick)",
+"grams":56.0
+}
+]
+},
+{
+"ndb":"09430",
+"group":"fruit",
+"description":"Pineapple, raw, extra sweet variety",
+"common_name":null,
+"scientific_name":"Ananas comosus",
+"refuse_pct":49,
+"edible_pct":51,
+"refuse_description":"8% core, 16% crown, 26% parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chunks",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"slice (4-2/3\" dia x 3/4\" thick)",
+"grams":166.0
+},
+{
+"amount":1.0,
+"measure":"fruit",
+"grams":905.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":112.0
+}
+]
+},
+{
+"ndb":"09429",
+"group":"fruit",
+"description":"Pineapple, raw, traditional varieties",
+"common_name":null,
+"scientific_name":"Ananas comosus",
+"refuse_pct":42,
+"edible_pct":58,
+"refuse_description":"8% core, 13% crown, 22% parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chunks",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"slice (4-2/3\" dia x 3/4\" thick)",
+"grams":175.0
+},
+{
+"amount":1.0,
+"measure":"fruit",
+"grams":1002.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":112.0
+}
+]
+},
+{
+"ndb":"09276",
+"group":"fruit",
+"description":"Pitanga, (surinam-cherry), raw",
+"common_name":null,
+"scientific_name":"Eugenia uniflora",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Seed, stem, and blossom end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":173.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":7.0
+}
+]
+},
+{
+"ndb":"09277",
+"group":"fruit",
+"description":"Plantains, raw",
+"common_name":null,
+"scientific_name":"Musa X paradisiaca",
+"refuse_pct":35,
+"edible_pct":65,
+"refuse_description":"Skin and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":148.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":179.0
+}
+]
+},
+{
+"ndb":"09279",
+"group":"fruit",
+"description":"Plums, raw",
+"common_name":null,
+"scientific_name":"Prunus spp.",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Pits",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":165.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-1/8\" dia)",
+"grams":66.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":151.0
+}
+]
+},
+{
+"ndb":"09286",
+"group":"fruit",
+"description":"Pomegranates, raw",
+"common_name":null,
+"scientific_name":"Punica granatum",
+"refuse_pct":44,
+"edible_pct":56,
+"refuse_description":"Skin and membrane",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup arils (seed/juice sacs)",
+"grams":87.0
+},
+{
+"amount":1.0,
+"measure":"pomegranate (4\" dia)",
+"grams":282.0
+}
+]
+},
+{
+"ndb":"11352",
+"group":"vegetable",
+"description":"Potatoes, flesh and skin, raw",
+"common_name":null,
+"scientific_name":"Solanum tuberosum",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Parings and trimmings",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, diced",
+"grams":75.0
+},
+{
+"amount":1.0,
+"measure":"Potato large (3\" to 4-1/4\" dia)",
+"grams":369.0
+},
+{
+"amount":1.0,
+"measure":"Potato medium (2-1/4\" to 3-1/4\" dia)",
+"grams":213.0
+},
+{
+"amount":1.0,
+"measure":"Potato small (1-3/4\" to 2-1/2\" dia)",
+"grams":170.0
+}
+]
+},
+{
+"ndb":"11362",
+"group":"vegetable",
+"description":"Potatoes, raw, skin",
+"common_name":null,
+"scientific_name":"Solanum tuberosum",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"skin",
+"grams":38.0
+}
+]
+},
+{
+"ndb":"11355",
+"group":"vegetable",
+"description":"Potatoes, red, flesh and skin, raw",
+"common_name":null,
+"scientific_name":"Solanum tuberosum",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Parings and trimmings",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, diced",
+"grams":75.0
+},
+{
+"amount":1.0,
+"measure":"potato large (3\" to 4-1/4\" dia)",
+"grams":369.0
+},
+{
+"amount":1.0,
+"measure":"potato medium (2-1/4\" to 3-1/4\" dia)",
+"grams":213.0
+},
+{
+"amount":1.0,
+"measure":"potato small (1-3/4\" to 2-1/4\" dia)",
+"grams":170.0
+}
+]
+},
+{
+"ndb":"11353",
+"group":"vegetable",
+"description":"Potatoes, russet, flesh and skin, raw",
+"common_name":"Includes USDA commodity food A214",
+"scientific_name":"Solanum tuberosum",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Parings and trimmings",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, diced",
+"grams":75.0
+},
+{
+"amount":1.0,
+"measure":"potato large (3\" to 4-1/4\" dia)",
+"grams":369.0
+},
+{
+"amount":1.0,
+"measure":"Potato medium (2-1/4\" to 3-1/4\" dia)",
+"grams":213.0
+},
+{
+"amount":1.0,
+"measure":"Potato small (1-3/4\" to 2-1/4\" dia)",
+"grams":170.0
+}
+]
+},
+{
+"ndb":"11354",
+"group":"vegetable",
+"description":"Potatoes, white, flesh and skin, raw",
+"common_name":"Includes USDA commodity food A215",
+"scientific_name":"Solanum tuberosum",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Parings and trimmings",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup, diced",
+"grams":75.0
+},
+{
+"amount":1.0,
+"measure":"large (3\" to 4-1/4\" dia.)",
+"grams":369.0
+},
+{
+"amount":1.0,
+"measure":"medium (2+-1/4\" to 3-1/4\" dia.)",
+"grams":213.0
+},
+{
+"amount":1.0,
+"measure":"small (1-3/4\" to 2-1/4\" dia.)",
+"grams":92.0
+}
+]
+},
+{
+"ndb":"09287",
+"group":"fruit",
+"description":"Prickly pears, raw",
+"common_name":null,
+"scientific_name":"Opuntia spp.",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"Seeds, skin, and bud end",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":149.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":103.0
+}
+]
+},
+{
+"ndb":"09295",
+"group":"fruit",
+"description":"Pummelo, raw",
+"common_name":null,
+"scientific_name":"Citrus maxima",
+"refuse_pct":44,
+"edible_pct":56,
+"refuse_description":"Seeds, skin, and membrane",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sections",
+"grams":190.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":609.0
+}
+]
+},
+{
+"ndb":"11416",
+"group":"vegetable",
+"description":"Pumpkin flowers, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":65,
+"edible_pct":35,
+"refuse_description":"Pistil and calyx",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":33.0
+},
+{
+"amount":1.0,
+"measure":"flower",
+"grams":2.0
+}
+]
+},
+{
+"ndb":"11418",
+"group":"vegetable",
+"description":"Pumpkin leaves, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":59,
+"edible_pct":41,
+"refuse_description":"Stem and tough leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":39.0
+}
+]
+},
+{
+"ndb":"11422",
+"group":"vegetable",
+"description":"Pumpkin, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":30,
+"edible_pct":70,
+"refuse_description":"Seeds, rind and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup (1\" cubes)",
+"grams":116.0
+}
+]
+},
+{
+"ndb":"11427",
+"group":"vegetable",
+"description":"Purslane, raw",
+"common_name":null,
+"scientific_name":"Portulaca oleracea",
+"refuse_pct":24,
+"edible_pct":76,
+"refuse_description":"Tough stems and leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":43.0
+},
+{
+"amount":1.0,
+"measure":"plant",
+"grams":3.0
+}
+]
+},
+{
+"ndb":"09296",
+"group":"fruit",
+"description":"Quinces, raw",
+"common_name":null,
+"scientific_name":"Cydonia oblonga",
+"refuse_pct":39,
+"edible_pct":61,
+"refuse_description":"Core, seeds, and parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":92.0
+}
+]
+},
+{
+"ndb":"11952",
+"group":"vegetable",
+"description":"Radicchio, raw",
+"common_name":null,
+"scientific_name":"Cichorium intybus",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and leaf ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, shredded",
+"grams":40.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":8.0
+}
+]
+},
+{
+"ndb":"11676",
+"group":"vegetable",
+"description":"Radish seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Raphanus sativus",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":38.0
+}
+]
+},
+{
+"ndb":"11430",
+"group":"vegetable",
+"description":"Radishes, oriental, raw",
+"common_name":null,
+"scientific_name":"Raphanus sativus (Longipinratus Group)",
+"refuse_pct":21,
+"edible_pct":79,
+"refuse_description":"Tops and parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":116.0
+},
+{
+"amount":1.0,
+"measure":"radish (7\" long)",
+"grams":338.0
+}
+]
+},
+{
+"ndb":"11429",
+"group":"vegetable",
+"description":"Radishes, raw",
+"common_name":null,
+"scientific_name":"Raphanus sativus",
+"refuse_pct":10,
+"edible_pct":90,
+"refuse_description":"Stem ends, rootlets and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":116.0
+},
+{
+"amount":1.0,
+"measure":"large (1\" to 1-1/4\" dia)",
+"grams":9.0
+},
+{
+"amount":1.0,
+"measure":"medium (3/4\" to 1\" dia)",
+"grams":4.5
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":1.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":2.0
+},
+{
+"amount":0.5,
+"measure":"cup slices",
+"grams":58.0
+}
+]
+},
+{
+"ndb":"11637",
+"group":"vegetable",
+"description":"Radishes, white icicle, raw",
+"common_name":null,
+"scientific_name":"Raphanus sativus",
+"refuse_pct":35,
+"edible_pct":65,
+"refuse_description":"Parings",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup slices",
+"grams":50.0
+},
+{
+"amount":1.0,
+"measure":"radish (7\" long)",
+"grams":17.0
+}
+]
+},
+{
+"ndb":"09302",
+"group":"fruit",
+"description":"Raspberries, raw",
+"common_name":null,
+"scientific_name":"Rubus spp.",
+"refuse_pct":4,
+"edible_pct":96,
+"refuse_description":"Caps, stems, and spoiled berries",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":123.0
+},
+{
+"amount":1.0,
+"measure":"pint as purchased, yields",
+"grams":312.0
+},
+{
+"amount":10.0,
+"measure":"raspberries",
+"grams":19.0
+}
+]
+},
+{
+"ndb":"09307",
+"group":"fruit",
+"description":"Rhubarb, raw",
+"common_name":null,
+"scientific_name":"Rheum rhabarbarum",
+"refuse_pct":25,
+"edible_pct":75,
+"refuse_description":"19% ends, 6% leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, diced",
+"grams":122.0
+},
+{
+"amount":1.0,
+"measure":"stalk",
+"grams":51.0
+}
+]
+},
+{
+"ndb":"09312",
+"group":"fruit",
+"description":"Rose-apples, raw",
+"common_name":null,
+"scientific_name":"Syzygium jambos",
+"refuse_pct":33,
+"edible_pct":67,
+"refuse_description":"Caps and pits",
+"portions":[]
+},
+{
+"ndb":"09311",
+"group":"fruit",
+"description":"Roselle, raw",
+"common_name":null,
+"scientific_name":"Hibiscus sabdariffa",
+"refuse_pct":39,
+"edible_pct":61,
+"refuse_description":"Seed pods and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, without refuse",
+"grams":57.0
+}
+]
+},
+{
+"ndb":"11435",
+"group":"vegetable",
+"description":"Rutabagas, raw",
+"common_name":null,
+"scientific_name":"Brassica napus var. napobrassica",
+"refuse_pct":15,
+"edible_pct":85,
+"refuse_description":"Parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":772.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":386.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":192.0
+}
+]
+},
+{
+"ndb":"11437",
+"group":"vegetable",
+"description":"Salsify, (vegetable oyster), raw",
+"common_name":null,
+"scientific_name":"Tragopogon porrifolius",
+"refuse_pct":13,
+"edible_pct":87,
+"refuse_description":"Scrapings and rootlets",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":133.0
+}
+]
+},
+{
+"ndb":"09313",
+"group":"fruit",
+"description":"Sapodilla, raw",
+"common_name":null,
+"scientific_name":"Manilkara zapota",
+"refuse_pct":20,
+"edible_pct":80,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pulp",
+"grams":241.0
+},
+{
+"amount":1.0,
+"measure":"sapodilla",
+"grams":170.0
+}
+]
+},
+{
+"ndb":"09314",
+"group":"fruit",
+"description":"Sapote, mamey, raw",
+"common_name":"mamey colorado, marmalade plum",
+"scientific_name":"Pouteria sapota",
+"refuse_pct":31,
+"edible_pct":69,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup 1\" pieces",
+"grams":175.0
+},
+{
+"amount":1.0,
+"measure":"fruit without refuse",
+"grams":558.0
+}
+]
+},
+{
+"ndb":"11442",
+"group":"vegetable",
+"description":"Seaweed, agar, raw",
+"common_name":null,
+"scientific_name":"Eucheuma spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":2.0,
+"measure":"tbsp (1/8 cup)",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11444",
+"group":"vegetable",
+"description":"Seaweed, irishmoss, raw",
+"common_name":null,
+"scientific_name":"Chondrus crispus",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":2.0,
+"measure":"tbsp (1/8 cup)",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11445",
+"group":"vegetable",
+"description":"Seaweed, kelp, raw",
+"common_name":null,
+"scientific_name":"Laminaria spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":2.0,
+"measure":"tbsp (1/8 cup)",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11446",
+"group":"vegetable",
+"description":"Seaweed, laver, raw",
+"common_name":null,
+"scientific_name":"Porphyra laciniata",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":10.0,
+"measure":"sheets",
+"grams":26.0
+},
+{
+"amount":2.0,
+"measure":"tbsp (1/8 cup)",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11666",
+"group":"vegetable",
+"description":"Seaweed, spirulina, raw",
+"common_name":null,
+"scientific_name":"Spirulina spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[]
+},
+{
+"ndb":"11669",
+"group":"vegetable",
+"description":"Seaweed, wakame, raw",
+"common_name":null,
+"scientific_name":"Undaria spp.",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":2.0,
+"measure":"tbsp (1/8 cup)",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11447",
+"group":"vegetable",
+"description":"Sesbania flower, raw",
+"common_name":null,
+"scientific_name":"Sesbania spp.",
+"refuse_pct":15,
+"edible_pct":85,
+"refuse_description":"Stems, pistil and calyx",
+"portions":[
+{
+"amount":1.0,
+"measure":"flower",
+"grams":3.0
+},
+{
+"amount":1.0,
+"measure":"cup flowers",
+"grams":20.0
+}
+]
+},
+{
+"ndb":"11677",
+"group":"vegetable",
+"description":"Shallots, raw",
+"common_name":null,
+"scientific_name":"Allium ascalonicum",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Skins",
+"portions":[
+{
+"amount":1.0,
+"measure":"tbsp chopped",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"09315",
+"group":"fruit",
+"description":"Soursop, raw",
+"common_name":null,
+"scientific_name":"Annona muricata",
+"refuse_pct":33,
+"edible_pct":67,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pulp",
+"grams":225.0
+},
+{
+"amount":1.0,
+"measure":"fruit (7\" x 5-1/4\" dia)",
+"grams":625.0
+}
+]
+},
+{
+"ndb":"11450",
+"group":"vegetable",
+"description":"Soybeans, green, raw",
+"common_name":null,
+"scientific_name":"Glycine max",
+"refuse_pct":47,
+"edible_pct":53,
+"refuse_description":"Pods",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":256.0
+}
+]
+},
+{
+"ndb":"11452",
+"group":"vegetable",
+"description":"Soybeans, mature seeds, sprouted, raw",
+"common_name":null,
+"scientific_name":"Glycine max",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":0.5,
+"measure":"cup",
+"grams":35.0
+},
+{
+"amount":10.0,
+"measure":"sprouts",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11457",
+"group":"vegetable",
+"description":"Spinach, raw",
+"common_name":null,
+"scientific_name":"Spinacia oleracea",
+"refuse_pct":28,
+"edible_pct":72,
+"refuse_description":"Large stems and roots",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":30.0
+},
+{
+"amount":1.0,
+"measure":"bunch",
+"grams":340.0
+},
+{
+"amount":1.0,
+"measure":"leaf",
+"grams":10.0
+},
+{
+"amount":1.0,
+"measure":"package (10 oz)",
+"grams":284.0
+}
+]
+},
+{
+"ndb":"11641",
+"group":"vegetable",
+"description":"Squash, summer, all varieties, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":5,
+"edible_pct":95,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":113.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":323.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":196.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":9.9
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":118.0
+}
+]
+},
+{
+"ndb":"11467",
+"group":"vegetable",
+"description":"Squash, summer, crookneck and straightneck, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":1,
+"edible_pct":99,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup sliced",
+"grams":127.0
+}
+]
+},
+{
+"ndb":"11475",
+"group":"vegetable",
+"description":"Squash, summer, scallop, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":2,
+"edible_pct":98,
+"refuse_description":"Stem ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":130.0
+}
+]
+},
+{
+"ndb":"11477",
+"group":"vegetable",
+"description":"Squash, summer, zucchini, includes skin, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":5,
+"edible_pct":95,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":124.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":113.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":323.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":196.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":9.9
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":118.0
+}
+]
+},
+{
+"ndb":"11482",
+"group":"vegetable",
+"description":"Squash, winter, acorn, raw",
+"common_name":null,
+"scientific_name":"Cucurbita maxima",
+"refuse_pct":24,
+"edible_pct":76,
+"refuse_description":"Rind",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":140.0
+},
+{
+"amount":1.0,
+"measure":"squash (4 inch dia)",
+"grams":431.0
+}
+]
+},
+{
+"ndb":"11643",
+"group":"vegetable",
+"description":"Squash, winter, all varieties, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":29,
+"edible_pct":71,
+"refuse_description":"Seeds, rind and stem",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":116.0
+}
+]
+},
+{
+"ndb":"11485",
+"group":"vegetable",
+"description":"Squash, winter, butternut, raw",
+"common_name":null,
+"scientific_name":"Cucurbita moschata",
+"refuse_pct":16,
+"edible_pct":84,
+"refuse_description":"Seeds, rind and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":140.0
+}
+]
+},
+{
+"ndb":"11489",
+"group":"vegetable",
+"description":"Squash, winter, hubbard, raw",
+"common_name":null,
+"scientific_name":"Cucurbita maxima",
+"refuse_pct":36,
+"edible_pct":64,
+"refuse_description":"Seeds, rind, trimmings and cutting loss",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":116.0
+}
+]
+},
+{
+"ndb":"11492",
+"group":"vegetable",
+"description":"Squash, winter, spaghetti, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":29,
+"edible_pct":71,
+"refuse_description":"Rind and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":101.0
+}
+]
+},
+{
+"ndb":"11953",
+"group":"vegetable",
+"description":"Squash, zucchini, baby, raw",
+"common_name":null,
+"scientific_name":"Cucurbita spp.",
+"refuse_pct":13,
+"edible_pct":87,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"large",
+"grams":16.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":11.0
+}
+]
+},
+{
+"ndb":"09316",
+"group":"fruit",
+"description":"Strawberries, raw",
+"common_name":null,
+"scientific_name":"Fragaria X ananassa",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Caps and stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, halves",
+"grams":152.0
+},
+{
+"amount":1.0,
+"measure":"cup, pureed",
+"grams":232.0
+},
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":166.0
+},
+{
+"amount":1.0,
+"measure":"cup, whole",
+"grams":144.0
+},
+{
+"amount":1.0,
+"measure":"extra large (1-5/8\" dia)",
+"grams":27.0
+},
+{
+"amount":1.0,
+"measure":"large (1-3/8\" dia)",
+"grams":18.0
+},
+{
+"amount":1.0,
+"measure":"medium (1-1/4\" dia)",
+"grams":12.0
+},
+{
+"amount":1.0,
+"measure":"pint as purchased, yields",
+"grams":357.0
+},
+{
+"amount":1.0,
+"measure":"small (1\" dia)",
+"grams":7.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":147.0
+}
+]
+},
+{
+"ndb":"11495",
+"group":"vegetable",
+"description":"Succotash, (corn and limas), raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[]
+},
+{
+"ndb":"09321",
+"group":"fruit",
+"description":"Sugar-apples, (sweetsop), raw",
+"common_name":null,
+"scientific_name":"Annona squamosa",
+"refuse_pct":45,
+"edible_pct":55,
+"refuse_description":"Seeds and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pulp",
+"grams":250.0
+},
+{
+"amount":1.0,
+"measure":"fruit (2-7/8\" dia)",
+"grams":155.0
+}
+]
+},
+{
+"ndb":"11503",
+"group":"vegetable",
+"description":"Swamp cabbage, (skunk cabbage), raw",
+"common_name":null,
+"scientific_name":"Ipomoea aquatica",
+"refuse_pct":23,
+"edible_pct":77,
+"refuse_description":"Tough stems",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":56.0
+},
+{
+"amount":1.0,
+"measure":"shoot",
+"grams":13.0
+}
+]
+},
+{
+"ndb":"11505",
+"group":"vegetable",
+"description":"Sweet potato leaves, raw",
+"common_name":"Sweetpotato leaves",
+"scientific_name":"Ipomoea batatas",
+"refuse_pct":6,
+"edible_pct":94,
+"refuse_description":"Tough stems and bruised leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":35.0
+},
+{
+"amount":1.0,
+"measure":"leaf (12-1/4\" long)",
+"grams":16.0
+}
+]
+},
+{
+"ndb":"11507",
+"group":"vegetable",
+"description":"Sweet potato, raw, unprepared",
+"common_name":"Sweetpotato, Includes USDA commodity food A230",
+"scientific_name":"Ipomoea batatas",
+"refuse_pct":28,
+"edible_pct":72,
+"refuse_description":"Parings and trimmings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":133.0
+},
+{
+"amount":1.0,
+"measure":"sweetpotato, 5\" long",
+"grams":130.0
+}
+]
+},
+{
+"ndb":"09322",
+"group":"fruit",
+"description":"Tamarinds, raw",
+"common_name":null,
+"scientific_name":"Tamarindus indica",
+"refuse_pct":66,
+"edible_pct":34,
+"refuse_description":"Pods and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, pulp",
+"grams":120.0
+},
+{
+"amount":1.0,
+"measure":"fruit (3\" x 1\")",
+"grams":2.0
+}
+]
+},
+{
+"ndb":"09221",
+"group":"fruit",
+"description":"Tangerine juice, raw",
+"common_name":null,
+"scientific_name":null,
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":247.0
+},
+{
+"amount":1.0,
+"measure":"fl oz",
+"grams":30.9
+}
+]
+},
+{
+"ndb":"09218",
+"group":"fruit",
+"description":"Tangerines, (mandarin oranges), raw",
+"common_name":null,
+"scientific_name":"Citrus reticulata",
+"refuse_pct":26,
+"edible_pct":74,
+"refuse_description":"Peel and seeds",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sections",
+"grams":195.0
+},
+{
+"amount":1.0,
+"measure":"small (2-1/4\" dia)",
+"grams":76.0
+},
+{
+"amount":1.0,
+"measure":"medium (2-1/2\" dia)",
+"grams":88.0
+},
+{
+"amount":1.0,
+"measure":"large (2-3/4\" dia)",
+"grams":120.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":109.0
+}
+]
+},
+{
+"ndb":"11520",
+"group":"vegetable",
+"description":"Taro leaves, raw",
+"common_name":null,
+"scientific_name":"Colocasia esculenta",
+"refuse_pct":40,
+"edible_pct":60,
+"refuse_description":"Stem, midrib and tough leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":28.0
+},
+{
+"amount":1.0,
+"measure":"leaf (11\" x 6-1/2\")",
+"grams":10.0
+}
+]
+},
+{
+"ndb":"11522",
+"group":"vegetable",
+"description":"Taro shoots, raw",
+"common_name":null,
+"scientific_name":"Colocasia esculenta",
+"refuse_pct":12,
+"edible_pct":88,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup slices",
+"grams":43.0
+},
+{
+"amount":1.0,
+"measure":"shoot",
+"grams":83.0
+}
+]
+},
+{
+"ndb":"11518",
+"group":"vegetable",
+"description":"Taro, raw",
+"common_name":null,
+"scientific_name":"Colocasia esculenta",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"Ends and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":104.0
+}
+]
+},
+{
+"ndb":"11527",
+"group":"vegetable",
+"description":"Tomatoes, green, raw",
+"common_name":null,
+"scientific_name":"Solanum lycopersicum",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and stem ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup",
+"grams":180.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":182.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":123.0
+},
+{
+"amount":1.0,
+"measure":"slice or wedge",
+"grams":20.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":91.0
+}
+]
+},
+{
+"ndb":"11695",
+"group":"vegetable",
+"description":"Tomatoes, orange, raw",
+"common_name":null,
+"scientific_name":"Solanum lycopersicum",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and stem ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":158.0
+},
+{
+"amount":1.0,
+"measure":"tomato",
+"grams":111.0
+}
+]
+},
+{
+"ndb":"11529",
+"group":"vegetable",
+"description":"Tomatoes, red, ripe, raw, year round average",
+"common_name":"Includes USDA commodity food A238, A233",
+"scientific_name":"Solanum lycopersicum",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and stem ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup cherry tomatoes",
+"grams":149.0
+},
+{
+"amount":1.0,
+"measure":"cup, chopped or sliced",
+"grams":180.0
+},
+{
+"amount":1.0,
+"measure":"Italian tomato",
+"grams":62.0
+},
+{
+"amount":1.0,
+"measure":"cherry",
+"grams":17.0
+},
+{
+"amount":1.0,
+"measure":"large whole (3\" dia)",
+"grams":182.0
+},
+{
+"amount":1.0,
+"measure":"medium whole (2-3/5\" dia)",
+"grams":123.0
+},
+{
+"amount":1.0,
+"measure":"slice, medium (1/4\" thick)",
+"grams":20.0
+},
+{
+"amount":1.0,
+"measure":"plum tomato",
+"grams":62.0
+},
+{
+"amount":1.0,
+"measure":"small whole (2-2/5\" dia)",
+"grams":91.0
+},
+{
+"amount":1.0,
+"measure":"slice, thick/large (1/2\" thick)",
+"grams":27.0
+},
+{
+"amount":1.0,
+"measure":"wedge (1/4 of medium tomato)",
+"grams":31.0
+},
+{
+"amount":1.0,
+"measure":"slice, thin/small",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":148.0
+}
+]
+},
+{
+"ndb":"11696",
+"group":"vegetable",
+"description":"Tomatoes, yellow, raw",
+"common_name":null,
+"scientific_name":"Solanum lycopersicum",
+"refuse_pct":9,
+"edible_pct":91,
+"refuse_description":"Core and stem ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":139.0
+},
+{
+"amount":1.0,
+"measure":"tomato",
+"grams":212.0
+}
+]
+},
+{
+"ndb":"11568",
+"group":"vegetable",
+"description":"Turnip greens, raw",
+"common_name":null,
+"scientific_name":"Brassica rapa (Rapifera Group)",
+"refuse_pct":30,
+"edible_pct":70,
+"refuse_description":"Root crown, tough stems and discarded leaves",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":55.0
+}
+]
+},
+{
+"ndb":"11564",
+"group":"vegetable",
+"description":"Turnips, raw",
+"common_name":null,
+"scientific_name":"Brassica rapa (Rapifera Group)",
+"refuse_pct":19,
+"edible_pct":81,
+"refuse_description":"Parings",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":130.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":183.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":122.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":15.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":61.0
+},
+{
+"amount":0.5,
+"measure":"cup, cubes",
+"grams":65.0
+}
+]
+},
+{
+"ndb":"11587",
+"group":"vegetable",
+"description":"Vinespinach, (basella), raw",
+"common_name":null,
+"scientific_name":"Basella alba",
+"refuse_pct":0,
+"edible_pct":100,
+"refuse_description":null,
+"portions":[]
+},
+{
+"ndb":"11990",
+"group":"vegetable",
+"description":"Wasabi, root, raw",
+"common_name":null,
+"scientific_name":"Wasabia japonica",
+"refuse_pct":23,
+"edible_pct":77,
+"refuse_description":"Peel",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":130.0
+},
+{
+"amount":1.0,
+"measure":"root",
+"grams":169.0
+}
+]
+},
+{
+"ndb":"11588",
+"group":"vegetable",
+"description":"Waterchestnuts, chinese, (matai), raw",
+"common_name":null,
+"scientific_name":"Eleocharis dulcis",
+"refuse_pct":23,
+"edible_pct":77,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":0.5,
+"measure":"cup slices",
+"grams":62.0
+},
+{
+"amount":4.0,
+"measure":"waterchestnuts",
+"grams":36.0
+}
+]
+},
+{
+"ndb":"11591",
+"group":"vegetable",
+"description":"Watercress, raw",
+"common_name":null,
+"scientific_name":"Nasturtium officinale",
+"refuse_pct":8,
+"edible_pct":92,
+"refuse_description":"Tough stems and ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, chopped",
+"grams":34.0
+},
+{
+"amount":1.0,
+"measure":"sprig",
+"grams":2.5
+},
+{
+"amount":10.0,
+"measure":"sprigs",
+"grams":25.0
+}
+]
+},
+{
+"ndb":"09326",
+"group":"fruit",
+"description":"Watermelon, raw",
+"common_name":null,
+"scientific_name":"Citrullus lanatus",
+"refuse_pct":48,
+"edible_pct":52,
+"refuse_description":"Rind, seeds, and cutting loss",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, balls",
+"grams":154.0
+},
+{
+"amount":1.0,
+"measure":"cup, diced",
+"grams":152.0
+},
+{
+"amount":1.0,
+"measure":"melon (15\" long x 7-1/2\" dia)",
+"grams":4518.0
+},
+{
+"amount":1.0,
+"measure":"wedge (approx 1/16 of melon)",
+"grams":286.0
+},
+{
+"amount":10.0,
+"measure":"watermelon balls",
+"grams":122.0
+},
+{
+"amount":1.0,
+"measure":"NLEA serving",
+"grams":280.0
+}
+]
+},
+{
+"ndb":"11593",
+"group":"vegetable",
+"description":"Waxgourd, (chinese preserving melon), raw",
+"common_name":null,
+"scientific_name":"Benincasa hispida",
+"refuse_pct":29,
+"edible_pct":71,
+"refuse_description":"Stem, center and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":132.0
+},
+{
+"amount":1.0,
+"measure":"waxgourd",
+"grams":5700.0
+}
+]
+},
+{
+"ndb":"11595",
+"group":"vegetable",
+"description":"Winged beans, immature seeds, raw",
+"common_name":null,
+"scientific_name":"Psophocarpus tetragonolobus",
+"refuse_pct":2,
+"edible_pct":98,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":44.0
+},
+{
+"amount":1.0,
+"measure":"pod",
+"grams":16.0
+}
+]
+},
+{
+"ndb":"11601",
+"group":"vegetable",
+"description":"Yam, raw",
+"common_name":null,
+"scientific_name":"Dioscorea spp.",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"Skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, cubes",
+"grams":150.0
+}
+]
+},
+{
+"ndb":"11603",
+"group":"vegetable",
+"description":"Yambean (jicama), raw",
+"common_name":null,
+"scientific_name":"Pachyrhizus spp.",
+"refuse_pct":8,
+"edible_pct":92,
+"refuse_description":"Ends and skin",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":120.0
+},
+{
+"amount":1.0,
+"measure":"cup",
+"grams":130.0
+},
+{
+"amount":1.0,
+"measure":"large",
+"grams":1200.0
+},
+{
+"amount":1.0,
+"measure":"medium",
+"grams":659.0
+},
+{
+"amount":1.0,
+"measure":"slice",
+"grams":6.0
+},
+{
+"amount":1.0,
+"measure":"small",
+"grams":365.0
+}
+]
+},
+{
+"ndb":"11199",
+"group":"vegetable",
+"description":"Yardlong bean, raw",
+"common_name":null,
+"scientific_name":"Vigna unguiculata subsp. sesquipedalis",
+"refuse_pct":5,
+"edible_pct":95,
+"refuse_description":"Ends",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup slices",
+"grams":91.0
+},
+{
+"amount":1.0,
+"measure":"pod",
+"grams":12.0
+}
+]
+},
+{
+"ndb":"11991",
+"group":"vegetable",
+"description":"Yautia (tannier), raw",
+"common_name":null,
+"scientific_name":"Xanthosoma sagittifolium",
+"refuse_pct":14,
+"edible_pct":86,
+"refuse_description":"Peel",
+"portions":[
+{
+"amount":1.0,
+"measure":"cup, sliced",
+"grams":135.0
+},
+{
+"amount":1.0,
+"measure":"root",
+"grams":305.0
+}
+]
+}
+]
+}
